@@ -1,0 +1,25 @@
+/*
+ ============================================================================
+ Name        : assignment.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int mark;
+	printf("Enter your mark");
+	scanf("%f",&mark);
+	if(50>100){
+		printf("Passed");
+	}else{
+		printf("Failed");
+	}
+
+	return EXIT_SUCCESS;
+}

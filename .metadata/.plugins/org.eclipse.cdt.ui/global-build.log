@@ -1,0 +1,2463 @@
+21:13:13 **** Build of configuration Debug for project sample 100k ****
+make all 
+Building file: ../src/sample 100k.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample 100k.d" -MT"src/sample 100k.o" -o "src/sample 100k.o" "../src/sample 100k.c"
+Finished building: ../src/sample 100k.c
+ 
+Building target: sample 100k
+Invoking: GCC C Linker
+gcc  -o "sample 100k" ./src/sample\ 100k.o   
+Finished building target: sample 100k
+ 
+21:13:48 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+21:18:32 **** Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:00 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+23:38:02 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+23:40:05 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+23:40:17 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+Building file: ../src/sample 100k.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample 100k.d" -MT"src/sample 100k.o" -o "src/sample 100k.o" "../src/sample 100k.c"
+Finished building: ../src/sample 100k.c
+ 
+Building target: sample 100k
+Invoking: GCC C Linker
+gcc  -o "sample 100k" ./src/sample\ 100k.o   
+Finished building target: sample 100k
+ 
+23:40:33 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+Building file: ../src/sample 100k.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample 100k.d" -MT"src/sample 100k.o" -o "src/sample 100k.o" "../src/sample 100k.c"
+Finished building: ../src/sample 100k.c
+ 
+Building target: sample 100k
+Invoking: GCC C Linker
+gcc  -o "sample 100k" ./src/sample\ 100k.o   
+Finished building target: sample 100k
+ 
+00:19:53 **** Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+00:37:42 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+00:37:42 **** Build of configuration Debug for project sample output ****
+make all 
+Building file: ../src/sample output.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample output.d" -MT"src/sample output.o" -o "src/sample output.o" "../src/sample output.c"
+Finished building: ../src/sample output.c
+ 
+Building target: sample output
+Invoking: GCC C Linker
+gcc  -o "sample output" ./src/sample\ output.o   
+Finished building target: sample output
+ 
+00:37:55 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+Building file: ../src/sample output.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample output.d" -MT"src/sample output.o" -o "src/sample output.o" "../src/sample output.c"
+Finished building: ../src/sample output.c
+ 
+Building target: sample output
+Invoking: GCC C Linker
+gcc  -o "sample output" ./src/sample\ output.o   
+Finished building target: sample output
+ 
+00:38:12 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+00:38:35 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+Building file: ../src/sample output.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample output.d" -MT"src/sample output.o" -o "src/sample output.o" "../src/sample output.c"
+Finished building: ../src/sample output.c
+ 
+Building target: sample output
+Invoking: GCC C Linker
+gcc  -o "sample output" ./src/sample\ output.o   
+Finished building target: sample output
+ 
+00:38:58 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+Building file: ../src/sample output.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample output.d" -MT"src/sample output.o" -o "src/sample output.o" "../src/sample output.c"
+Finished building: ../src/sample output.c
+ 
+Building target: sample output
+Invoking: GCC C Linker
+gcc  -o "sample output" ./src/sample\ output.o   
+Finished building target: sample output
+ 
+00:42:24 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+00:42:25 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+00:42:29 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+Building file: ../src/sample output.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample output.d" -MT"src/sample output.o" -o "src/sample output.o" "../src/sample output.c"
+Finished building: ../src/sample output.c
+ 
+Building target: sample output
+Invoking: GCC C Linker
+gcc  -o "sample output" ./src/sample\ output.o   
+Finished building target: sample output
+ 
+00:48:10 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+00:48:10 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+00:48:15 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+Building file: ../src/sample output.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample output.d" -MT"src/sample output.o" -o "src/sample output.o" "../src/sample output.c"
+Finished building: ../src/sample output.c
+ 
+Building target: sample output
+Invoking: GCC C Linker
+gcc  -o "sample output" ./src/sample\ output.o   
+Finished building target: sample output
+ 
+00:56:07 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+00:56:08 **** Build of configuration Debug for project sample input ****
+make all 
+Building file: ../src/sample input.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample input.d" -MT"src/sample input.o" -o "src/sample input.o" "../src/sample input.c"
+Finished building: ../src/sample input.c
+ 
+Building target: sample input
+Invoking: GCC C Linker
+gcc  -o "sample input" ./src/sample\ input.o   
+Finished building target: sample input
+ 
+00:56:08 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+00:56:27 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+Building file: ../src/sample input.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample input.d" -MT"src/sample input.o" -o "src/sample input.o" "../src/sample input.c"
+Finished building: ../src/sample input.c
+ 
+Building target: sample input
+Invoking: GCC C Linker
+gcc  -o "sample input" ./src/sample\ input.o   
+Finished building target: sample input
+ 
+11:31:15 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+11:39:24 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+11:39:24 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+11:39:25 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+Building file: ../src/sample output.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample output.d" -MT"src/sample output.o" -o "src/sample output.o" "../src/sample output.c"
+Finished building: ../src/sample output.c
+ 
+Building target: sample output
+Invoking: GCC C Linker
+gcc  -o "sample output" ./src/sample\ output.o   
+Finished building target: sample output
+ 
+11:39:26 **** Build of configuration Debug for project sum of two numbers ****
+make all 
+Building file: ../src/sum of two numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum of two numbers.d" -MT"src/sum of two numbers.o" -o "src/sum of two numbers.o" "../src/sum of two numbers.c"
+Finished building: ../src/sum of two numbers.c
+ 
+Building target: sum of two numbers
+Invoking: GCC C Linker
+gcc  -o "sum of two numbers" ./src/sum\ of\ two\ numbers.o   
+Finished building target: sum of two numbers
+ 
+11:39:34 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+Building file: ../src/sum of two numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum of two numbers.d" -MT"src/sum of two numbers.o" -o "src/sum of two numbers.o" "../src/sum of two numbers.c"
+Finished building: ../src/sum of two numbers.c
+ 
+Building target: sum of two numbers
+Invoking: GCC C Linker
+gcc  -o "sum of two numbers" ./src/sum\ of\ two\ numbers.o   
+Finished building target: sum of two numbers
+ 
+11:39:53 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+11:40:16 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+11:49:09 **** Build of configuration Debug for project average 3 numbers ****
+make all 
+Building file: ../src/average 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/average 3 numbers.d" -MT"src/average 3 numbers.o" -o "src/average 3 numbers.o" "../src/average 3 numbers.c"
+Finished building: ../src/average 3 numbers.c
+ 
+Building target: average 3 numbers
+Invoking: GCC C Linker
+gcc  -o "average 3 numbers" ./src/average\ 3\ numbers.o   
+Finished building target: average 3 numbers
+ 
+11:49:10 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+11:49:10 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+11:49:11 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+11:49:12 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+11:49:18 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+Building file: ../src/average 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/average 3 numbers.d" -MT"src/average 3 numbers.o" -o "src/average 3 numbers.o" "../src/average 3 numbers.c"
+../src/average 3 numbers.c: In function ‘main’:
+../src/average 3 numbers.c:19:38: error: expected ‘;’ before ‘return’
+   19 |     printf("Average is : %f",average)
+      |                                      ^
+      |                                      ;
+   20 |         return EXIT_SUCCESS;
+      |         ~~~~~~                        
+make: *** [src/subdir.mk:20: src/average 3 numbers.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:49:44 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+Building file: ../src/average 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/average 3 numbers.d" -MT"src/average 3 numbers.o" -o "src/average 3 numbers.o" "../src/average 3 numbers.c"
+../src/average 3 numbers.c: In function ‘main’:
+../src/average 3 numbers.c:19:38: error: expected ‘;’ before ‘return’
+   19 |     printf("Average is : %f",average)
+      |                                      ^
+      |                                      ;
+   20 |         return EXIT_SUCCESS;
+      |         ~~~~~~                        
+make: *** [src/subdir.mk:20: src/average 3 numbers.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:49:44 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+11:49:45 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+11:49:46 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+11:49:46 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+11:49:51 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+Building file: ../src/average 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/average 3 numbers.d" -MT"src/average 3 numbers.o" -o "src/average 3 numbers.o" "../src/average 3 numbers.c"
+Finished building: ../src/average 3 numbers.c
+ 
+Building target: average 3 numbers
+Invoking: GCC C Linker
+gcc  -o "average 3 numbers" ./src/average\ 3\ numbers.o   
+Finished building target: average 3 numbers
+ 
+11:51:20 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+11:56:43 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+11:56:44 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+11:56:44 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+11:56:45 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+11:56:46 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+11:56:46 **** Build of configuration Debug for project swapping ****
+make all 
+Building file: ../src/swapping.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/swapping.d" -MT"src/swapping.o" -o "src/swapping.o" "../src/swapping.c"
+Finished building: ../src/swapping.c
+ 
+Building target: swapping
+Invoking: GCC C Linker
+gcc  -o "swapping" ./src/swapping.o   
+Finished building target: swapping
+ 
+11:58:21 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+11:58:22 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+11:58:22 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+11:58:23 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+11:58:23 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+11:58:24 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+11:58:30 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+Building file: ../src/swapping.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/swapping.d" -MT"src/swapping.o" -o "src/swapping.o" "../src/swapping.c"
+Finished building: ../src/swapping.c
+ 
+Building target: swapping
+Invoking: GCC C Linker
+gcc  -o "swapping" ./src/swapping.o   
+Finished building target: swapping
+ 
+12:09:25 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+12:24:29 **** Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:24:29 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+12:24:30 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+12:24:30 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+12:24:31 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+12:24:32 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+12:24:32 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+12:24:38 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:24:49 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+12:25:54 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+../src/assignment day2.c: In function ‘main’:
+../src/assignment day2.c:17:19: warning: format ‘%c’ expects a matching ‘char *’ argument [-Wformat=]
+   17 |         scanf("%c%c",&a);
+      |                  ~^
+      |                   |
+      |                   char *
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:26:33 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+12:27:13 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:28:09 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+../src/assignment day2.c: In function ‘main’:
+../src/assignment day2.c:17:19: warning: format ‘%c’ expects a matching ‘char *’ argument [-Wformat=]
+   17 |         scanf("%c%c%c%c%c%c%c",&a);
+      |                  ~^
+      |                   |
+      |                   char *
+../src/assignment day2.c:17:21: warning: format ‘%c’ expects a matching ‘char *’ argument [-Wformat=]
+   17 |         scanf("%c%c%c%c%c%c%c",&a);
+      |                    ~^
+      |                     |
+      |                     char *
+../src/assignment day2.c:17:23: warning: format ‘%c’ expects a matching ‘char *’ argument [-Wformat=]
+   17 |         scanf("%c%c%c%c%c%c%c",&a);
+      |                      ~^
+      |                       |
+      |                       char *
+../src/assignment day2.c:17:25: warning: format ‘%c’ expects a matching ‘char *’ argument [-Wformat=]
+   17 |         scanf("%c%c%c%c%c%c%c",&a);
+      |                        ~^
+      |                         |
+      |                         char *
+../src/assignment day2.c:17:27: warning: format ‘%c’ expects a matching ‘char *’ argument [-Wformat=]
+   17 |         scanf("%c%c%c%c%c%c%c",&a);
+      |                          ~^
+      |                           |
+      |                           char *
+../src/assignment day2.c:17:29: warning: format ‘%c’ expects a matching ‘char *’ argument [-Wformat=]
+   17 |         scanf("%c%c%c%c%c%c%c",&a);
+      |                            ~^
+      |                             |
+      |                             char *
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:28:52 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+12:29:09 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:31:57 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+12:31:57 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+12:31:58 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+12:31:59 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+12:31:59 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+12:32:00 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+12:32:00 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+12:32:09 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:32:39 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+../src/assignment day2.c: In function ‘main’:
+../src/assignment day2.c:18:16: warning: too many arguments for format [-Wformat-extra-args]
+   18 |         printf("You entered %c",a,b,c,d,e,f,g);
+      |                ^~~~~~~~~~~~~~~~
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:34:17 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:34:53 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:35:17 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+Building file: ../src/assignment day2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2.d" -MT"src/assignment day2.o" -o "src/assignment day2.o" "../src/assignment day2.c"
+Finished building: ../src/assignment day2.c
+ 
+Building target: assignment day2
+Invoking: GCC C Linker
+gcc  -o "assignment day2" ./src/assignment\ day2.o   
+Finished building target: assignment day2
+ 
+12:37:50 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+12:44:33 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+12:44:33 **** Build of configuration Debug for project assignment day2 second question ****
+make all 
+Building file: ../src/assignment day2 second question.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 second question.d" -MT"src/assignment day2 second question.o" -o "src/assignment day2 second question.o" "../src/assignment day2 second question.c"
+Finished building: ../src/assignment day2 second question.c
+ 
+Building target: assignment day2 second question
+Invoking: GCC C Linker
+gcc  -o "assignment day2 second question" ./src/assignment\ day2\ second\ question.o   
+Finished building target: assignment day2 second question
+ 
+12:44:34 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+12:44:35 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+12:44:35 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+12:44:36 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+12:44:36 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+12:44:37 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+12:44:43 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+Building file: ../src/assignment day2 second question.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 second question.d" -MT"src/assignment day2 second question.o" -o "src/assignment day2 second question.o" "../src/assignment day2 second question.c"
+../src/assignment day2 second question.c: In function ‘main’:
+../src/assignment day2 second question.c:20:27: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘double’ [-Wformat=]
+   20 |         printf("Sum is : %d%f",sum);
+      |                          ~^    ~~~
+      |                           |    |
+      |                           int  double
+      |                          %f
+../src/assignment day2 second question.c:20:29: warning: format ‘%f’ expects a matching ‘double’ argument [-Wformat=]
+   20 |         printf("Sum is : %d%f",sum);
+      |                            ~^
+      |                             |
+      |                             double
+Finished building: ../src/assignment day2 second question.c
+ 
+Building target: assignment day2 second question
+Invoking: GCC C Linker
+gcc  -o "assignment day2 second question" ./src/assignment\ day2\ second\ question.o   
+Finished building target: assignment day2 second question
+ 
+12:45:01 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+12:45:56 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+Building file: ../src/assignment day2 second question.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 second question.d" -MT"src/assignment day2 second question.o" -o "src/assignment day2 second question.o" "../src/assignment day2 second question.c"
+../src/assignment day2 second question.c: In function ‘main’:
+../src/assignment day2 second question.c:20:27: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘double’ [-Wformat=]
+   20 |         printf("Sum is : %d",sum);
+      |                          ~^  ~~~
+      |                           |  |
+      |                           |  double
+      |                           int
+      |                          %f
+Finished building: ../src/assignment day2 second question.c
+ 
+Building target: assignment day2 second question
+Invoking: GCC C Linker
+gcc  -o "assignment day2 second question" ./src/assignment\ day2\ second\ question.o   
+Finished building target: assignment day2 second question
+ 
+12:47:00 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+Building file: ../src/assignment day2 second question.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 second question.d" -MT"src/assignment day2 second question.o" -o "src/assignment day2 second question.o" "../src/assignment day2 second question.c"
+../src/assignment day2 second question.c: In function ‘main’:
+../src/assignment day2 second question.c:18:17: warning: format ‘%f’ expects argument of type ‘float *’, but argument 2 has type ‘int *’ [-Wformat=]
+   18 |         scanf("%f",&num1,&num2);
+      |                ~^  ~~~~~
+      |                 |  |
+      |                 |  int *
+      |                 float *
+      |                %d
+../src/assignment day2 second question.c:18:15: warning: too many arguments for format [-Wformat-extra-args]
+   18 |         scanf("%f",&num1,&num2);
+      |               ^~~~
+Finished building: ../src/assignment day2 second question.c
+ 
+Building target: assignment day2 second question
+Invoking: GCC C Linker
+gcc  -o "assignment day2 second question" ./src/assignment\ day2\ second\ question.o   
+Finished building target: assignment day2 second question
+ 
+12:47:50 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+Building file: ../src/assignment day2 second question.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 second question.d" -MT"src/assignment day2 second question.o" -o "src/assignment day2 second question.o" "../src/assignment day2 second question.c"
+../src/assignment day2 second question.c: In function ‘main’:
+../src/assignment day2 second question.c:17:15: warning: too many arguments for format [-Wformat-extra-args]
+   17 |         scanf("%f",&num1,&num2);
+      |               ^~~~
+Finished building: ../src/assignment day2 second question.c
+ 
+Building target: assignment day2 second question
+Invoking: GCC C Linker
+gcc  -o "assignment day2 second question" ./src/assignment\ day2\ second\ question.o   
+Finished building target: assignment day2 second question
+ 
+12:48:09 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+Building file: ../src/assignment day2 second question.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 second question.d" -MT"src/assignment day2 second question.o" -o "src/assignment day2 second question.o" "../src/assignment day2 second question.c"
+Finished building: ../src/assignment day2 second question.c
+ 
+Building target: assignment day2 second question
+Invoking: GCC C Linker
+gcc  -o "assignment day2 second question" ./src/assignment\ day2\ second\ question.o   
+Finished building target: assignment day2 second question
+ 
+12:48:27 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+12:50:35 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+Building file: ../src/assignment day2 second question.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 second question.d" -MT"src/assignment day2 second question.o" -o "src/assignment day2 second question.o" "../src/assignment day2 second question.c"
+Finished building: ../src/assignment day2 second question.c
+ 
+Building target: assignment day2 second question
+Invoking: GCC C Linker
+gcc  -o "assignment day2 second question" ./src/assignment\ day2\ second\ question.o   
+Finished building target: assignment day2 second question
+ 
+12:57:50 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+13:13:16 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+13:13:17 **** Build of configuration Debug for project assignment day2 question3 ****
+make all 
+Building file: ../src/assignment day2 question3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 question3.d" -MT"src/assignment day2 question3.o" -o "src/assignment day2 question3.o" "../src/assignment day2 question3.c"
+Finished building: ../src/assignment day2 question3.c
+ 
+Building target: assignment day2 question3
+Invoking: GCC C Linker
+gcc  -o "assignment day2 question3" ./src/assignment\ day2\ question3.o   
+Finished building target: assignment day2 question3
+ 
+13:13:17 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+13:13:18 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+13:13:18 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+13:13:19 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+13:13:20 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+13:13:20 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+13:13:21 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+13:13:27 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+Building file: ../src/assignment day2 question3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 question3.d" -MT"src/assignment day2 question3.o" -o "src/assignment day2 question3.o" "../src/assignment day2 question3.c"
+../src/assignment day2 question3.c: In function ‘main’:
+../src/assignment day2 question3.c:18:23: error: expected ‘;’ before ‘)’ token
+   18 |         SI=(P*R*N)/100);
+      |                       ^
+      |                       ;
+../src/assignment day2 question3.c:18:23: error: expected statement before ‘)’ token
+make: *** [src/subdir.mk:20: src/assignment day2 question3.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+13:14:00 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+13:14:01 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+Building file: ../src/assignment day2 question3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 question3.d" -MT"src/assignment day2 question3.o" -o "src/assignment day2 question3.o" "../src/assignment day2 question3.c"
+../src/assignment day2 question3.c: In function ‘main’:
+../src/assignment day2 question3.c:18:23: error: expected ‘;’ before ‘)’ token
+   18 |         SI=(P*R*N)/100);
+      |                       ^
+      |                       ;
+../src/assignment day2 question3.c:18:23: error: expected statement before ‘)’ token
+make: *** [src/subdir.mk:20: src/assignment day2 question3.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+13:14:02 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+13:14:02 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+13:14:03 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+13:14:03 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+13:14:04 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+13:14:04 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+13:14:05 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+13:14:08 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+Building file: ../src/assignment day2 question3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 question3.d" -MT"src/assignment day2 question3.o" -o "src/assignment day2 question3.o" "../src/assignment day2 question3.c"
+Finished building: ../src/assignment day2 question3.c
+ 
+Building target: assignment day2 question3
+Invoking: GCC C Linker
+gcc  -o "assignment day2 question3" ./src/assignment\ day2\ question3.o   
+Finished building target: assignment day2 question3
+ 
+13:16:48 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+19:40:50 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+Building file: ../src/assignment day2 question3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day2 question3.d" -MT"src/assignment day2 question3.o" -o "src/assignment day2 question3.o" "../src/assignment day2 question3.c"
+Finished building: ../src/assignment day2 question3.c
+ 
+Building target: assignment day2 question3
+Invoking: GCC C Linker
+gcc  -o "assignment day2 question3" ./src/assignment\ day2\ question3.o   
+Finished building target: assignment day2 question3
+ 
+19:45:34 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+19:46:03 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+20:09:52 **** Build of configuration Debug for project Control statement ****
+make all 
+Building file: ../src/Control statement.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Control statement.d" -MT"src/Control statement.o" -o "src/Control statement.o" "../src/Control statement.c"
+Finished building: ../src/Control statement.c
+ 
+Building target: Control statement
+Invoking: GCC C Linker
+gcc  -o "Control statement" ./src/Control\ statement.o   
+Finished building target: Control statement
+ 
+20:09:53 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+20:09:53 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+20:09:54 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+20:09:55 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:09:55 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+20:09:56 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+20:09:56 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+20:09:57 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:09:58 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+20:10:04 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+Building file: ../src/Control statement.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Control statement.d" -MT"src/Control statement.o" -o "src/Control statement.o" "../src/Control statement.c"
+../src/Control statement.c: In function ‘main’:
+../src/Control statement.c:22:44: error: expected ‘;’ before ‘}’ token
+   22 |                 printf("Number is postive")
+      |                                            ^
+      |                                            ;
+   23 |         }
+      |         ~                                   
+make: *** [src/subdir.mk:20: src/Control statement.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:10:16 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+Building file: ../src/Control statement.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Control statement.d" -MT"src/Control statement.o" -o "src/Control statement.o" "../src/Control statement.c"
+Finished building: ../src/Control statement.c
+ 
+Building target: Control statement
+Invoking: GCC C Linker
+gcc  -o "Control statement" ./src/Control\ statement.o   
+Finished building target: Control statement
+ 
+20:10:35 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:08 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:08 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:09 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:09 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:10 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:11 **** Build of configuration Debug for project large number ****
+make all 
+Building file: ../src/large number.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/large number.d" -MT"src/large number.o" -o "src/large number.o" "../src/large number.c"
+Finished building: ../src/large number.c
+ 
+Building target: large number
+Invoking: GCC C Linker
+gcc  -o "large number" ./src/large\ number.o   
+Finished building target: large number
+ 
+20:18:11 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:12 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:12 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:13 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:14 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:19 **** Incremental Build of configuration Debug for project large number ****
+make all 
+Building file: ../src/large number.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/large number.d" -MT"src/large number.o" -o "src/large number.o" "../src/large number.c"
+Finished building: ../src/large number.c
+ 
+Building target: large number
+Invoking: GCC C Linker
+gcc  -o "large number" ./src/large\ number.o   
+Finished building target: large number
+ 
+20:18:33 **** Incremental Build of configuration Debug for project large number ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:20 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:20 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:21 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:22 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:22 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:23 **** Incremental Build of configuration Debug for project large number ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:23 **** Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+Finished building: ../src/largest among 3 numbers.c
+ 
+Building target: largest among 3 numbers
+Invoking: GCC C Linker
+gcc  -o "largest among 3 numbers" ./src/largest\ among\ 3\ numbers.o   
+Finished building target: largest among 3 numbers
+ 
+20:27:24 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:25 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:25 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:26 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:26 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+20:27:33 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+../src/largest among 3 numbers.c: In function ‘main’:
+../src/largest among 3 numbers.c:26:17: error: expected ‘}’ before ‘else’
+   26 |                 else
+      |                 ^~~~
+../src/largest among 3 numbers.c:27:50: error: expected ‘;’ before ‘}’ token
+   27 |                         printf("%d is largest",c)
+      |                                                  ^
+      |                                                  ;
+   28 |         }
+      |         ~                                         
+../src/largest among 3 numbers.c: At top level:
+../src/largest among 3 numbers.c:29:9: error: expected identifier or ‘(’ before ‘return’
+   29 |         return EXIT_SUCCESS;
+      |         ^~~~~~
+../src/largest among 3 numbers.c:30:1: error: expected identifier or ‘(’ before ‘}’ token
+   30 | }
+      | ^
+make: *** [src/subdir.mk:20: src/largest among 3 numbers.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:29:12 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+Finished building: ../src/largest among 3 numbers.c
+ 
+Building target: largest among 3 numbers
+Invoking: GCC C Linker
+gcc  -o "largest among 3 numbers" ./src/largest\ among\ 3\ numbers.o   
+Finished building target: largest among 3 numbers
+ 
+20:29:48 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+Finished building: ../src/largest among 3 numbers.c
+ 
+Building target: largest among 3 numbers
+Invoking: GCC C Linker
+gcc  -o "largest among 3 numbers" ./src/largest\ among\ 3\ numbers.o   
+Finished building target: largest among 3 numbers
+ 
+20:32:33 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:34 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:34 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:35 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:36 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:36 **** Incremental Build of configuration Debug for project large number ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:37 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:37 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:38 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:38 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:39 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:39 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:44 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+Finished building: ../src/largest among 3 numbers.c
+ 
+Building target: largest among 3 numbers
+Invoking: GCC C Linker
+gcc  -o "largest among 3 numbers" ./src/largest\ among\ 3\ numbers.o   
+Finished building target: largest among 3 numbers
+ 
+20:33:11 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+Finished building: ../src/largest among 3 numbers.c
+ 
+Building target: largest among 3 numbers
+Invoking: GCC C Linker
+gcc  -o "largest among 3 numbers" ./src/largest\ among\ 3\ numbers.o   
+Finished building target: largest among 3 numbers
+ 
+20:35:11 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+Finished building: ../src/largest among 3 numbers.c
+ 
+Building target: largest among 3 numbers
+Invoking: GCC C Linker
+gcc  -o "largest among 3 numbers" ./src/largest\ among\ 3\ numbers.o   
+Finished building target: largest among 3 numbers
+ 
+20:35:49 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+Finished building: ../src/largest among 3 numbers.c
+ 
+Building target: largest among 3 numbers
+Invoking: GCC C Linker
+gcc  -o "largest among 3 numbers" ./src/largest\ among\ 3\ numbers.o   
+Finished building target: largest among 3 numbers
+ 
+20:37:02 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:37:19 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+Finished building: ../src/largest among 3 numbers.c
+ 
+Building target: largest among 3 numbers
+Invoking: GCC C Linker
+gcc  -o "largest among 3 numbers" ./src/largest\ among\ 3\ numbers.o   
+Finished building target: largest among 3 numbers
+ 
+20:37:41 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+Finished building: ../src/largest among 3 numbers.c
+ 
+Building target: largest among 3 numbers
+Invoking: GCC C Linker
+gcc  -o "largest among 3 numbers" ./src/largest\ among\ 3\ numbers.o   
+Finished building target: largest among 3 numbers
+ 
+20:39:25 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+Building file: ../src/largest among 3 numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/largest among 3 numbers.d" -MT"src/largest among 3 numbers.o" -o "src/largest among 3 numbers.o" "../src/largest among 3 numbers.c"
+Finished building: ../src/largest among 3 numbers.c
+ 
+Building target: largest among 3 numbers
+Invoking: GCC C Linker
+gcc  -o "largest among 3 numbers" ./src/largest\ among\ 3\ numbers.o   
+Finished building target: largest among 3 numbers
+ 
+20:41:12 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:35 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:36 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:36 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:37 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:38 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:38 **** Build of configuration Debug for project base mathemathics choice ****
+make all 
+Building file: ../src/base mathemathics choice.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/base mathemathics choice.d" -MT"src/base mathemathics choice.o" -o "src/base mathemathics choice.o" "../src/base mathemathics choice.c"
+Finished building: ../src/base mathemathics choice.c
+ 
+Building target: base mathemathics choice
+Invoking: GCC C Linker
+gcc  -o "base mathemathics choice" ./src/base\ mathemathics\ choice.o   
+Finished building target: base mathemathics choice
+ 
+20:58:39 **** Incremental Build of configuration Debug for project large number ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:39 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:40 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:40 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:41 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:42 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:42 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:50 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+Building file: ../src/base mathemathics choice.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/base mathemathics choice.d" -MT"src/base mathemathics choice.o" -o "src/base mathemathics choice.o" "../src/base mathemathics choice.c"
+../src/base mathemathics choice.c: In function ‘main’:
+../src/base mathemathics choice.c:17:19: warning: format ‘%d’ expects argument of type ‘int *’, but argument 3 has type ‘int’ [-Wformat=]
+   17 |         scanf("%d%d",&num1,num2);
+      |                  ~^        ~~~~
+      |                   |        |
+      |                   int *    int
+../src/base mathemathics choice.c:18:54: error: expected ‘;’ before ‘return’
+   18 |         printf("1 for Addition \n 2 for subtraction")
+      |                                                      ^
+      |                                                      ;
+   19 | 
+   20 |         return EXIT_SUCCESS;
+      |         ~~~~~~                                        
+make: *** [src/subdir.mk:20: src/base mathemathics choice.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+20:59:06 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+Building file: ../src/base mathemathics choice.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/base mathemathics choice.d" -MT"src/base mathemathics choice.o" -o "src/base mathemathics choice.o" "../src/base mathemathics choice.c"
+../src/base mathemathics choice.c: In function ‘main’:
+../src/base mathemathics choice.c:17:19: warning: format ‘%d’ expects argument of type ‘int *’, but argument 3 has type ‘int’ [-Wformat=]
+   17 |         scanf("%d%d",&num1,num2);
+      |                  ~^        ~~~~
+      |                   |        |
+      |                   int *    int
+../src/base mathemathics choice.c:17:9: warning: ‘num2’ is used uninitialized [-Wuninitialized]
+   17 |         scanf("%d%d",&num1,num2);
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/base mathemathics choice.c
+ 
+Building target: base mathemathics choice
+Invoking: GCC C Linker
+gcc  -o "base mathemathics choice" ./src/base\ mathemathics\ choice.o   
+Finished building target: base mathemathics choice
+ 
+20:59:34 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:20 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:21 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:22 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:22 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:23 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:23 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:24 **** Incremental Build of configuration Debug for project large number ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:24 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:25 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:26 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:26 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:27 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:27 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:30 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+make: Nothing to be done for 'all'.
+21:01:06 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+Building file: ../src/base mathemathics choice.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/base mathemathics choice.d" -MT"src/base mathemathics choice.o" -o "src/base mathemathics choice.o" "../src/base mathemathics choice.c"
+../src/base mathemathics choice.c: In function ‘main’:
+../src/base mathemathics choice.c:17:19: warning: format ‘%d’ expects argument of type ‘int *’, but argument 3 has type ‘int’ [-Wformat=]
+   17 |         scanf("%d%d",&num1,num2);
+      |                  ~^        ~~~~
+      |                   |        |
+      |                   int *    int
+../src/base mathemathics choice.c:17:9: warning: ‘num2’ is used uninitialized [-Wuninitialized]
+   17 |         scanf("%d%d",&num1,num2);
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/base mathemathics choice.c
+ 
+Building target: base mathemathics choice
+Invoking: GCC C Linker
+gcc  -o "base mathemathics choice" ./src/base\ mathemathics\ choice.o   
+Finished building target: base mathemathics choice
+ 
+21:02:25 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+Building file: ../src/base mathemathics choice.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/base mathemathics choice.d" -MT"src/base mathemathics choice.o" -o "src/base mathemathics choice.o" "../src/base mathemathics choice.c"
+Finished building: ../src/base mathemathics choice.c
+ 
+Building target: base mathemathics choice
+Invoking: GCC C Linker
+gcc  -o "base mathemathics choice" ./src/base\ mathemathics\ choice.o   
+Finished building target: base mathemathics choice
+ 
+21:02:52 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+Building file: ../src/base mathemathics choice.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/base mathemathics choice.d" -MT"src/base mathemathics choice.o" -o "src/base mathemathics choice.o" "../src/base mathemathics choice.c"
+Finished building: ../src/base mathemathics choice.c
+ 
+Building target: base mathemathics choice
+Invoking: GCC C Linker
+gcc  -o "base mathemathics choice" ./src/base\ mathemathics\ choice.o   
+Finished building target: base mathemathics choice
+ 
+21:11:38 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:38 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:39 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:40 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:40 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:41 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:41 **** Incremental Build of configuration Debug for project large number ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:42 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:42 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:43 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:44 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:44 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:45 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+21:11:48 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+Building file: ../src/base mathemathics choice.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/base mathemathics choice.d" -MT"src/base mathemathics choice.o" -o "src/base mathemathics choice.o" "../src/base mathemathics choice.c"
+Finished building: ../src/base mathemathics choice.c
+ 
+Building target: base mathemathics choice
+Invoking: GCC C Linker
+gcc  -o "base mathemathics choice" ./src/base\ mathemathics\ choice.o   
+Finished building target: base mathemathics choice
+ 
+21:12:53 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+make: Nothing to be done for 'all'.
+21:14:10 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+Building file: ../src/base mathemathics choice.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/base mathemathics choice.d" -MT"src/base mathemathics choice.o" -o "src/base mathemathics choice.o" "../src/base mathemathics choice.c"
+Finished building: ../src/base mathemathics choice.c
+ 
+Building target: base mathemathics choice
+Invoking: GCC C Linker
+gcc  -o "base mathemathics choice" ./src/base\ mathemathics\ choice.o   
+Finished building target: base mathemathics choice
+ 
+21:14:27 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:05 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:06 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:06 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:07 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:07 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:08 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:08 **** Incremental Build of configuration Debug for project large number ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:09 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:10 **** Build of configuration Debug for project menu with switch ****
+make all 
+Building file: ../src/menu with switch.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/menu with switch.d" -MT"src/menu with switch.o" -o "src/menu with switch.o" "../src/menu with switch.c"
+Finished building: ../src/menu with switch.c
+ 
+Building target: menu with switch
+Invoking: GCC C Linker
+gcc  -o "menu with switch" ./src/menu\ with\ switch.o   
+Finished building target: menu with switch
+ 
+21:26:10 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:11 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:11 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:12 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:12 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:19 **** Incremental Build of configuration Debug for project menu with switch ****
+make all 
+Building file: ../src/menu with switch.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/menu with switch.d" -MT"src/menu with switch.o" -o "src/menu with switch.o" "../src/menu with switch.c"
+../src/menu with switch.c: In function ‘main’:
+../src/menu with switch.c:32:38: error: expected ‘;’ before ‘}’ token
+   32 |                 printf("fool,,,,,,,")
+      |                                      ^
+      |                                      ;
+   33 |         }
+      |         ~                             
+make: *** [src/subdir.mk:20: src/menu with switch.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+21:26:32 **** Incremental Build of configuration Debug for project menu with switch ****
+make all 
+Building file: ../src/menu with switch.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/menu with switch.d" -MT"src/menu with switch.o" -o "src/menu with switch.o" "../src/menu with switch.c"
+Finished building: ../src/menu with switch.c
+ 
+Building target: menu with switch
+Invoking: GCC C Linker
+gcc  -o "menu with switch" ./src/menu\ with\ switch.o   
+Finished building target: menu with switch
+ 
+21:27:14 **** Incremental Build of configuration Debug for project menu with switch ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:02 **** Incremental Build of configuration Debug for project menu with switch ****
+make all 
+Building file: ../src/menu with switch.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/menu with switch.d" -MT"src/menu with switch.o" -o "src/menu with switch.o" "../src/menu with switch.c"
+Finished building: ../src/menu with switch.c
+ 
+Building target: menu with switch
+Invoking: GCC C Linker
+gcc  -o "menu with switch" ./src/menu\ with\ switch.o   
+Finished building target: menu with switch
+ 
+21:29:09 **** Incremental Build of configuration Debug for project Control statement ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:09 **** Incremental Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:10 **** Incremental Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:10 **** Incremental Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:11 **** Incremental Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:11 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:12 **** Incremental Build of configuration Debug for project large number ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:13 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:13 **** Incremental Build of configuration Debug for project menu with switch ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:14 **** Incremental Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:14 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:15 **** Incremental Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:15 **** Incremental Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:16 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:19 **** Incremental Build of configuration Debug for project menu with switch ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:41 **** Incremental Build of configuration Debug for project menu with switch ****
+make all 
+Building file: ../src/menu with switch.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/menu with switch.d" -MT"src/menu with switch.o" -o "src/menu with switch.o" "../src/menu with switch.c"
+Finished building: ../src/menu with switch.c
+ 
+Building target: menu with switch
+Invoking: GCC C Linker
+gcc  -o "menu with switch" ./src/menu\ with\ switch.o   
+Finished building target: menu with switch
+ 
+21:31:01 **** Incremental Build of configuration Debug for project menu with switch ****
+make all 
+make: Nothing to be done for 'all'.
+21:31:04 **** Incremental Build of configuration Debug for project menu with switch ****
+make all 
+make: Nothing to be done for 'all'.
+22:12:56 **** Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+Finished building: ../src/assignment day3 1.c
+ 
+Building target: assignment day3 1
+Invoking: GCC C Linker
+gcc  -o "assignment day3 1" ./src/assignment\ day3\ 1.o   
+Finished building target: assignment day3 1
+ 
+22:13:02 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+../src/assignment day3 1.c: In function ‘main’:
+../src/assignment day3 1.c:17:17: warning: format ‘%f’ expects argument of type ‘float *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%f",&mark);
+      |                ~^  ~~~~~
+      |                 |  |
+      |                 |  int *
+      |                 float *
+      |                %d
+Finished building: ../src/assignment day3 1.c
+ 
+Building target: assignment day3 1
+Invoking: GCC C Linker
+gcc  -o "assignment day3 1" ./src/assignment\ day3\ 1.o   
+Finished building target: assignment day3 1
+ 
+22:16:12 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+../src/assignment day3 1.c: In function ‘main’:
+../src/assignment day3 1.c:17:17: warning: format ‘%f’ expects argument of type ‘float *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%f",&mark);
+      |                ~^  ~~~~~
+      |                 |  |
+      |                 |  int *
+      |                 float *
+      |                %d
+../src/assignment day3 1.c:21:33: error: expected ‘;’ before ‘}’ token
+   21 |                 printf("Failed")
+      |                                 ^
+      |                                 ;
+   22 |         }
+      |         ~                        
+make: *** [src/subdir.mk:20: src/assignment day3 1.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+22:16:19 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+../src/assignment day3 1.c: In function ‘main’:
+../src/assignment day3 1.c:17:17: warning: format ‘%f’ expects argument of type ‘float *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%f",&mark);
+      |                ~^  ~~~~~
+      |                 |  |
+      |                 |  int *
+      |                 float *
+      |                %d
+Finished building: ../src/assignment day3 1.c
+ 
+Building target: assignment day3 1
+Invoking: GCC C Linker
+gcc  -o "assignment day3 1" ./src/assignment\ day3\ 1.o   
+Finished building target: assignment day3 1
+ 
+22:16:39 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+../src/assignment day3 1.c: In function ‘main’:
+../src/assignment day3 1.c:17:17: warning: format ‘%f’ expects argument of type ‘float *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%f",&mark);
+      |                ~^  ~~~~~
+      |                 |  |
+      |                 |  int *
+      |                 float *
+      |                %d
+Finished building: ../src/assignment day3 1.c
+ 
+Building target: assignment day3 1
+Invoking: GCC C Linker
+gcc  -o "assignment day3 1" ./src/assignment\ day3\ 1.o   
+Finished building target: assignment day3 1
+ 
+22:16:48 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+22:17:40 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+../src/assignment day3 1.c: In function ‘main’:
+../src/assignment day3 1.c:17:17: warning: format ‘%f’ expects argument of type ‘float *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%f",&mark);
+      |                ~^  ~~~~~
+      |                 |  |
+      |                 |  int *
+      |                 float *
+      |                %d
+Finished building: ../src/assignment day3 1.c
+ 
+Building target: assignment day3 1
+Invoking: GCC C Linker
+gcc  -o "assignment day3 1" ./src/assignment\ day3\ 1.o   
+Finished building target: assignment day3 1
+ 
+22:18:07 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+../src/assignment day3 1.c: In function ‘main’:
+../src/assignment day3 1.c:17:17: warning: format ‘%f’ expects argument of type ‘float *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%f",&mark);
+      |                ~^  ~~~~~
+      |                 |  |
+      |                 |  int *
+      |                 float *
+      |                %d
+Finished building: ../src/assignment day3 1.c
+ 
+Building target: assignment day3 1
+Invoking: GCC C Linker
+gcc  -o "assignment day3 1" ./src/assignment\ day3\ 1.o   
+Finished building target: assignment day3 1
+ 
+22:18:13 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+22:19:20 **** Incremental Build of configuration Debug for project large number ****
+make all 
+make: Nothing to be done for 'all'.
+22:21:17 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+Finished building: ../src/assignment day3 1.c
+ 
+Building target: assignment day3 1
+Invoking: GCC C Linker
+gcc  -o "assignment day3 1" ./src/assignment\ day3\ 1.o   
+Finished building target: assignment day3 1
+ 
+22:21:24 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+22:24:33 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+Finished building: ../src/assignment day3 1.c
+ 
+Building target: assignment day3 1
+Invoking: GCC C Linker
+gcc  -o "assignment day3 1" ./src/assignment\ day3\ 1.o   
+Finished building target: assignment day3 1
+ 
+22:24:40 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+22:24:50 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+22:24:58 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+22:27:34 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+Finished building: ../src/assignment day3 1.c
+ 
+Building target: assignment day3 1
+Invoking: GCC C Linker
+gcc  -o "assignment day3 1" ./src/assignment\ day3\ 1.o   
+Finished building target: assignment day3 1
+ 
+22:27:43 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+22:27:55 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+Building file: ../src/assignment day3 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/assignment day3 1.d" -MT"src/assignment day3 1.o" -o "src/assignment day3 1.o" "../src/assignment day3 1.c"
+Finished building: ../src/assignment day3 1.c
+ 
+Building target: assignment day3 1
+Invoking: GCC C Linker
+gcc  -o "assignment day3 1" ./src/assignment\ day3\ 1.o   
+Finished building target: assignment day3 1
+ 
+13:34:10 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+13:34:34 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+13:34:41 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+13:42:50 **** Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+13:42:56 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:19:34: error: expected ‘;’ before ‘}’ token
+   19 |                 printf("A grade")
+      |                                  ^
+      |                                  ;
+   20 |         }
+      |         ~                         
+make: *** [src/subdir.mk:20: src/Assignment day3 2.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+13:43:06 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+13:43:35 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:24: warning: comparison of constant ‘100’ with boolean expression is always true [-Wbool-compare]
+   18 |         if(totalmark>90<100){
+      |                        ^
+../src/Assignment day3 2.c:18:21: warning: comparisons like ‘X<=Y<=Z’ do not have their mathematical meaning [-Wparentheses]
+   18 |         if(totalmark>90<100){
+      |            ~~~~~~~~~^~~
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+13:45:06 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:12: error: expected expression before ‘>=’ token
+   18 |         if(>=90&&<=100){
+      |            ^~
+make: *** [src/subdir.mk:20: src/Assignment day3 2.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+13:45:47 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:12: error: ‘mark’ undeclared (first use in this function)
+   18 |         if(mark>90){
+      |            ^~~~
+../src/Assignment day3 2.c:18:12: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:20: src/Assignment day3 2.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+13:46:10 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+13:46:57 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+13:47:06 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+13:47:16 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+13:48:35 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:24: error: lvalue required as left operand of assignment
+   18 |         if(totalmark>90=100){
+      |                        ^
+make: *** [src/subdir.mk:20: src/Assignment day3 2.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+13:48:52 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:25: error: expected expression before ‘<’ token
+   18 |         if(totalmark>90=<100){
+      |                         ^
+make: *** [src/subdir.mk:20: src/Assignment day3 2.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+13:49:07 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+13:49:15 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+13:51:24 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+13:51:52 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:21: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   18 |         if(totalmark>90&totalmark<100){
+      |            ~~~~~~~~~^~~
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+13:52:21 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:22: warning: comparison between pointer and integer
+   18 |         if(&totalmark>90 &totalmark<100){
+      |                      ^
+../src/Assignment day3 2.c:18:22: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   18 |         if(&totalmark>90 &totalmark<100){
+      |            ~~~~~~~~~~^~~
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+13:52:27 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+13:59:29 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+13:59:35 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:22: warning: comparison between pointer and integer
+   18 |         if(&totalmark>90 &totalmark<100){
+      |                      ^
+../src/Assignment day3 2.c:18:22: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   18 |         if(&totalmark>90 &totalmark<100){
+      |            ~~~~~~~~~~^~~
+../src/Assignment day3 2.c:20:28: warning: comparison between pointer and integer
+   20 |         }else if(&totalmark>80 &totalmark<89){
+      |                            ^
+../src/Assignment day3 2.c:20:28: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   20 |         }else if(&totalmark>80 &totalmark<89){
+      |                  ~~~~~~~~~~^~~
+../src/Assignment day3 2.c:22:28: warning: comparison between pointer and integer
+   22 |         }else if(&totalmark>70 &totalmark<79){
+      |                            ^
+../src/Assignment day3 2.c:22:28: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   22 |         }else if(&totalmark>70 &totalmark<79){
+      |                  ~~~~~~~~~~^~~
+../src/Assignment day3 2.c:24:28: warning: comparison between pointer and integer
+   24 |         }else if(&totalmark>60&totalmark<69){
+      |                            ^
+../src/Assignment day3 2.c:24:28: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   24 |         }else if(&totalmark>60&totalmark<69){
+      |                  ~~~~~~~~~~^~~
+../src/Assignment day3 2.c:26:28: warning: comparison between pointer and integer
+   26 |         }else if(&totalmark>50&totalmark<59){
+      |                            ^
+../src/Assignment day3 2.c:26:28: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   26 |         }else if(&totalmark>50&totalmark<59){
+      |                  ~~~~~~~~~~^~~
+../src/Assignment day3 2.c:28:28: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   28 |         }else if(&totalmark<0&totalmark<50){
+      |                  ~~~~~~~~~~^~
+../src/Assignment day3 2.c:31:41: error: expected ‘;’ before ‘}’ token
+   31 |                 printf("Not allowed...")
+      |                                         ^
+      |                                         ;
+   32 |         }
+      |         ~                                
+make: *** [src/subdir.mk:20: src/Assignment day3 2.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+13:59:42 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:22: warning: comparison between pointer and integer
+   18 |         if(&totalmark>90 &totalmark<100){
+      |                      ^
+../src/Assignment day3 2.c:18:22: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   18 |         if(&totalmark>90 &totalmark<100){
+      |            ~~~~~~~~~~^~~
+../src/Assignment day3 2.c:20:28: warning: comparison between pointer and integer
+   20 |         }else if(&totalmark>80 &totalmark<89){
+      |                            ^
+../src/Assignment day3 2.c:20:28: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   20 |         }else if(&totalmark>80 &totalmark<89){
+      |                  ~~~~~~~~~~^~~
+../src/Assignment day3 2.c:22:28: warning: comparison between pointer and integer
+   22 |         }else if(&totalmark>70 &totalmark<79){
+      |                            ^
+../src/Assignment day3 2.c:22:28: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   22 |         }else if(&totalmark>70 &totalmark<79){
+      |                  ~~~~~~~~~~^~~
+../src/Assignment day3 2.c:24:28: warning: comparison between pointer and integer
+   24 |         }else if(&totalmark>60&totalmark<69){
+      |                            ^
+../src/Assignment day3 2.c:24:28: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   24 |         }else if(&totalmark>60&totalmark<69){
+      |                  ~~~~~~~~~~^~~
+../src/Assignment day3 2.c:26:28: warning: comparison between pointer and integer
+   26 |         }else if(&totalmark>50&totalmark<59){
+      |                            ^
+../src/Assignment day3 2.c:26:28: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   26 |         }else if(&totalmark>50&totalmark<59){
+      |                  ~~~~~~~~~~^~~
+../src/Assignment day3 2.c:28:28: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   28 |         }else if(&totalmark<0&totalmark<50){
+      |                  ~~~~~~~~~~^~
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:01:19 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+14:03:45 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:21: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   18 |         if(totalmark>90 &totalmark<100){
+      |            ~~~~~~~~~^~~
+../src/Assignment day3 2.c:20:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   20 |         }else if(totalmark>80 &totalmark<89){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:22:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   22 |         }else if(totalmark>70 &totalmark<79){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:24:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   24 |         }else if(totalmark>60&totalmark<69){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:26:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   26 |         }else if(totalmark>50&totalmark<59){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:28:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   28 |         }else if(totalmark<0&totalmark<50){
+      |                  ~~~~~~~~~^~
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:03:53 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+14:04:06 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+14:04:17 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:21: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   18 |         if(totalmark>90 &totalmark<100){
+      |            ~~~~~~~~~^~~
+../src/Assignment day3 2.c:20:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   20 |         }else if(totalmark>80 &totalmark<89){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:22:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   22 |         }else if(totalmark>70 &totalmark<79){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:24:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   24 |         }else if(totalmark>60&totalmark<69){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:26:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   26 |         }else if(totalmark>50&totalmark<59){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:28:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   28 |         }else if(totalmark<50&totalmark<0){
+      |                  ~~~~~~~~~^~~
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:04:28 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+14:05:05 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:21: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   18 |         if(totalmark>90 &totalmark<100){
+      |            ~~~~~~~~~^~~
+../src/Assignment day3 2.c:20:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   20 |         }else if(totalmark>80 &totalmark<89){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:22:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   22 |         }else if(totalmark>70 &totalmark<79){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:24:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   24 |         }else if(totalmark>60&totalmark<69){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:26:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   26 |         }else if(totalmark>50&totalmark<59){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:28:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   28 |         }else if(totalmark>50&totalmark<0){
+      |                  ~~~~~~~~~^~~
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:05:56 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:21: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   18 |         if(totalmark>90 &totalmark<100){
+      |            ~~~~~~~~~^~~
+../src/Assignment day3 2.c:20:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   20 |         }else if(totalmark>80 &totalmark<89){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:22:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   22 |         }else if(totalmark>70 &totalmark<79){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:24:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   24 |         }else if(totalmark>60&totalmark<69){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:26:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   26 |         }else if(totalmark>50&totalmark<59){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:28:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   28 |         }else if(totalmark<50&totalmark>0){
+      |                  ~~~~~~~~~^~~
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:06:04 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+14:06:58 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+../src/Assignment day3 2.c: In function ‘main’:
+../src/Assignment day3 2.c:18:21: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   18 |         if(totalmark>90 &totalmark<100){
+      |            ~~~~~~~~~^~~
+../src/Assignment day3 2.c:20:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   20 |         }else if(totalmark>80 &totalmark<89){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:22:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   22 |         }else if(totalmark>70 &totalmark<79){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:24:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   24 |         }else if(totalmark>60&totalmark<69){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:26:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   26 |         }else if(totalmark>50&totalmark<59){
+      |                  ~~~~~~~~~^~~
+../src/Assignment day3 2.c:28:27: warning: suggest parentheses around comparison in operand of ‘&’ [-Wparentheses]
+   28 |         }else if(totalmark<50&totalmark>0){
+      |                  ~~~~~~~~~^~~
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:07:18 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+14:07:27 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+14:07:38 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+14:08:14 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+14:08:43 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+14:09:21 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:09:51 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:10:15 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:10:38 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:10:43 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+14:11:35 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:12:33 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+Building file: ../src/Assignment day3 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 2.d" -MT"src/Assignment day3 2.o" -o "src/Assignment day3 2.o" "../src/Assignment day3 2.c"
+Finished building: ../src/Assignment day3 2.c
+ 
+Building target: Assignment day3 2
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 2" ./src/Assignment\ day3\ 2.o   
+Finished building target: Assignment day3 2
+ 
+14:12:44 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+15:00:25 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+15:11:38 **** Build of configuration Debug for project Assignment day3 3 ****
+make all 
+Building file: ../src/Assignment day3 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 3.d" -MT"src/Assignment day3 3.o" -o "src/Assignment day3 3.o" "../src/Assignment day3 3.c"
+Finished building: ../src/Assignment day3 3.c
+ 
+Building target: Assignment day3 3
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 3" ./src/Assignment\ day3\ 3.o   
+Finished building target: Assignment day3 3
+ 
+15:11:47 **** Incremental Build of configuration Debug for project Assignment day3 3 ****
+make all 
+Building file: ../src/Assignment day3 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 3.d" -MT"src/Assignment day3 3.o" -o "src/Assignment day3 3.o" "../src/Assignment day3 3.c"
+../src/Assignment day3 3.c: In function ‘main’:
+../src/Assignment day3 3.c:15:13: warning: unused variable ‘choice’ [-Wunused-variable]
+   15 |         int choice;
+      |             ^~~~~~
+Finished building: ../src/Assignment day3 3.c
+ 
+Building target: Assignment day3 3
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 3" ./src/Assignment\ day3\ 3.o   
+Finished building target: Assignment day3 3
+ 
+15:12:03 **** Incremental Build of configuration Debug for project Assignment day3 3 ****
+make all 
+Building file: ../src/Assignment day3 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 3.d" -MT"src/Assignment day3 3.o" -o "src/Assignment day3 3.o" "../src/Assignment day3 3.c"
+../src/Assignment day3 3.c: In function ‘main’:
+../src/Assignment day3 3.c:15:13: warning: unused variable ‘choice’ [-Wunused-variable]
+   15 |         int choice;
+      |             ^~~~~~
+Finished building: ../src/Assignment day3 3.c
+ 
+Building target: Assignment day3 3
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 3" ./src/Assignment\ day3\ 3.o   
+Finished building target: Assignment day3 3
+ 
+15:12:14 **** Incremental Build of configuration Debug for project Assignment day3 3 ****
+make all 
+Building file: ../src/Assignment day3 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 3.d" -MT"src/Assignment day3 3.o" -o "src/Assignment day3 3.o" "../src/Assignment day3 3.c"
+../src/Assignment day3 3.c: In function ‘main’:
+../src/Assignment day3 3.c:15:13: warning: unused variable ‘choice’ [-Wunused-variable]
+   15 |         int choice;
+      |             ^~~~~~
+Finished building: ../src/Assignment day3 3.c
+ 
+Building target: Assignment day3 3
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 3" ./src/Assignment\ day3\ 3.o   
+Finished building target: Assignment day3 3
+ 
+15:21:40 **** Incremental Build of configuration Debug for project Assignment day3 3 ****
+make all 
+Building file: ../src/Assignment day3 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignment day3 3.d" -MT"src/Assignment day3 3.o" -o "src/Assignment day3 3.o" "../src/Assignment day3 3.c"
+Finished building: ../src/Assignment day3 3.c
+ 
+Building target: Assignment day3 3
+Invoking: GCC C Linker
+gcc  -o "Assignment day3 3" ./src/Assignment\ day3\ 3.o   
+Finished building target: Assignment day3 3
+ 
+13:11:52 **** Incremental Build of configuration Debug for project Assignment day3 3 ****
+make all 
+make: Nothing to be done for 'all'.
+13:12:42 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+13:13:09 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+13:18:05 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+13:18:20 **** Incremental Build of configuration Debug for project Assignment day3 3 ****
+make all 
+make: Nothing to be done for 'all'.

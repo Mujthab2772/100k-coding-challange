@@ -1,0 +1,14 @@
+LaunchTargetManager/configs/Assignment\ day3\ 2=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:sample 100k,org.eclipse.launchbar.core.descriptorType.default\:sample output,org.eclipse.launchbar.core.descriptorType.default\:sum of two numbers,org.eclipse.launchbar.core.descriptorType.default\:swapping,org.eclipse.launchbar.core.descriptorType.default\:assignment day2,org.eclipse.launchbar.core.descriptorType.default\:sample input,org.eclipse.launchbar.core.descriptorType.default\:average 3 numbers,org.eclipse.launchbar.core.descriptorType.default\:assignment day2 second question,org.eclipse.launchbar.core.descriptorType.default\:assignment day2 question3,org.eclipse.launchbar.core.descriptorType.default\:Control statement,org.eclipse.launchbar.core.descriptorType.default\:largest among 3 numbers,org.eclipse.launchbar.core.descriptorType.default\:base mathemathics choice,org.eclipse.launchbar.core.descriptorType.default\:menu with switch,org.eclipse.launchbar.core.descriptorType.default\:large number,org.eclipse.launchbar.core.descriptorType.default\:assignment day3 1,org.eclipse.launchbar.core.descriptorType.default\:Assignment day3 2,org.eclipse.launchbar.core.descriptorType.default\:Assignment day3 3
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Assignment\ day3\ 2/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Assignment\ day3\ 2/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:average\ 3\ numbers/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:average\ 3\ numbers/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:sample\ 100k/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:sample\ 100k/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:sample\ output/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:sample\ output/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
