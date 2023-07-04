@@ -1,6 +1,6 @@
-21:31:04 **** Incremental Build of configuration Debug for project menu with switch ****
+20:46:42 **** Build of configuration Debug for project menu with switch ****
 make all 
 make: Nothing to be done for 'all'.
 
-21:31:05 Build Finished. 0 errors, 0 warnings. (took 519ms)
+20:46:43 Build Finished. 0 errors, 0 warnings. (took 646ms)
 
