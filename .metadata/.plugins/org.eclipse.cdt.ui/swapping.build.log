@@ -1,6 +1,6 @@
-21:29:16 **** Incremental Build of configuration Debug for project swapping ****
+20:46:45 **** Incremental Build of configuration Debug for project swapping ****
 make all 
 make: Nothing to be done for 'all'.
 
-21:29:17 Build Finished. 0 errors, 0 warnings. (took 521ms)
+20:46:45 Build Finished. 0 errors, 0 warnings. (took 522ms)
 

@@ -1,6 +1,6 @@
-21:29:13 **** Incremental Build of configuration Debug for project largest among 3 numbers ****
+20:46:41 **** Build of configuration Debug for project largest among 3 numbers ****
 make all 
 make: Nothing to be done for 'all'.
 
-21:29:13 Build Finished. 0 errors, 0 warnings. (took 519ms)
+20:46:42 Build Finished. 0 errors, 0 warnings. (took 572ms)
 

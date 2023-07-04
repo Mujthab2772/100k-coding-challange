@@ -2461,3 +2461,683 @@ make: Nothing to be done for 'all'.
 13:18:20 **** Incremental Build of configuration Debug for project Assignment day3 3 ****
 make all 
 make: Nothing to be done for 'all'.
+20:19:50 **** Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:22 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:35 **** Incremental Build of configuration Debug for project Assignment day3 2 ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:35 **** Incremental Build of configuration Debug for project Assignment day3 3 ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:36 **** Build of configuration Debug for project Control statement ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:36 **** Build of configuration Debug for project assignment day2 ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:37 **** Build of configuration Debug for project assignment day2 question3 ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:38 **** Build of configuration Debug for project assignment day2 second question ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:38 **** Incremental Build of configuration Debug for project assignment day3 1 ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:39 **** Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:39 **** Build of configuration Debug for project base mathemathics choice ****
+make all 
+Building file: ../src/base mathemathics choice.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/base mathemathics choice.d" -MT"src/base mathemathics choice.o" -o "src/base mathemathics choice.o" "../src/base mathemathics choice.c"
+Finished building: ../src/base mathemathics choice.c
+ 
+Building target: base mathemathics choice
+Invoking: GCC C Linker
+gcc  -o "base mathemathics choice" ./src/base\ mathemathics\ choice.o   
+Finished building target: base mathemathics choice
+ 
+20:46:40 **** Build of configuration Debug for project for loop 1 to 100 ****
+make all 
+Building file: ../src/for loop 1 to 100.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/for loop 1 to 100.d" -MT"src/for loop 1 to 100.o" -o "src/for loop 1 to 100.o" "../src/for loop 1 to 100.c"
+Finished building: ../src/for loop 1 to 100.c
+ 
+Building target: for loop 1 to 100
+Invoking: GCC C Linker
+gcc  -o "for loop 1 to 100" ./src/for\ loop\ 1\ to\ 100.o   
+Finished building target: for loop 1 to 100
+ 
+20:46:41 **** Build of configuration Debug for project large number ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:41 **** Build of configuration Debug for project largest among 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:42 **** Build of configuration Debug for project menu with switch ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:43 **** Build of configuration Debug for project sample 100k ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:43 **** Build of configuration Debug for project sample input ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:44 **** Build of configuration Debug for project sample output ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:44 **** Build of configuration Debug for project sum of two numbers ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:45 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:46 **** Incremental Build of configuration Debug for project for loop 1 to 100 ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:51 **** Incremental Build of configuration Debug for project for loop 1 to 100 ****
+make all 
+make: Nothing to be done for 'all'.
+20:47:02 **** Incremental Build of configuration Debug for project for loop 1 to 100 ****
+make all 
+Building file: ../src/for loop 1 to 100.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/for loop 1 to 100.d" -MT"src/for loop 1 to 100.o" -o "src/for loop 1 to 100.o" "../src/for loop 1 to 100.c"
+Finished building: ../src/for loop 1 to 100.c
+ 
+Building target: for loop 1 to 100
+Invoking: GCC C Linker
+gcc  -o "for loop 1 to 100" ./src/for\ loop\ 1\ to\ 100.o   
+Finished building target: for loop 1 to 100
+ 
+20:47:27 **** Incremental Build of configuration Debug for project for loop 1 to 100 ****
+make all 
+Building file: ../src/for loop 1 to 100.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/for loop 1 to 100.d" -MT"src/for loop 1 to 100.o" -o "src/for loop 1 to 100.o" "../src/for loop 1 to 100.c"
+Finished building: ../src/for loop 1 to 100.c
+ 
+Building target: for loop 1 to 100
+Invoking: GCC C Linker
+gcc  -o "for loop 1 to 100" ./src/for\ loop\ 1\ to\ 100.o   
+Finished building target: for loop 1 to 100
+ 
+20:48:56 **** Incremental Build of configuration Debug for project for loop 1 to 100 ****
+make all 
+Building file: ../src/for loop 1 to 100.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/for loop 1 to 100.d" -MT"src/for loop 1 to 100.o" -o "src/for loop 1 to 100.o" "../src/for loop 1 to 100.c"
+Finished building: ../src/for loop 1 to 100.c
+ 
+Building target: for loop 1 to 100
+Invoking: GCC C Linker
+gcc  -o "for loop 1 to 100" ./src/for\ loop\ 1\ to\ 100.o   
+Finished building target: for loop 1 to 100
+ 
+20:49:15 **** Incremental Build of configuration Debug for project for loop 1 to 100 ****
+make all 
+Building file: ../src/for loop 1 to 100.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/for loop 1 to 100.d" -MT"src/for loop 1 to 100.o" -o "src/for loop 1 to 100.o" "../src/for loop 1 to 100.c"
+Finished building: ../src/for loop 1 to 100.c
+ 
+Building target: for loop 1 to 100
+Invoking: GCC C Linker
+gcc  -o "for loop 1 to 100" ./src/for\ loop\ 1\ to\ 100.o   
+Finished building target: for loop 1 to 100
+ 
+20:56:38 **** Build of configuration Debug for project sum of n numbers ****
+make all 
+Building file: ../src/sum of n numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum of n numbers.d" -MT"src/sum of n numbers.o" -o "src/sum of n numbers.o" "../src/sum of n numbers.c"
+Finished building: ../src/sum of n numbers.c
+ 
+Building target: sum of n numbers
+Invoking: GCC C Linker
+gcc  -o "sum of n numbers" ./src/sum\ of\ n\ numbers.o   
+Finished building target: sum of n numbers
+ 
+20:56:44 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+Building file: ../src/sum of n numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum of n numbers.d" -MT"src/sum of n numbers.o" -o "src/sum of n numbers.o" "../src/sum of n numbers.c"
+Finished building: ../src/sum of n numbers.c
+ 
+Building target: sum of n numbers
+Invoking: GCC C Linker
+gcc  -o "sum of n numbers" ./src/sum\ of\ n\ numbers.o   
+Finished building target: sum of n numbers
+ 
+20:59:57 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:00:30 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+Building file: ../src/sum of n numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum of n numbers.d" -MT"src/sum of n numbers.o" -o "src/sum of n numbers.o" "../src/sum of n numbers.c"
+Finished building: ../src/sum of n numbers.c
+ 
+Building target: sum of n numbers
+Invoking: GCC C Linker
+gcc  -o "sum of n numbers" ./src/sum\ of\ n\ numbers.o   
+Finished building target: sum of n numbers
+ 
+21:04:08 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:04:24 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+Building file: ../src/sum of n numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum of n numbers.d" -MT"src/sum of n numbers.o" -o "src/sum of n numbers.o" "../src/sum of n numbers.c"
+Finished building: ../src/sum of n numbers.c
+ 
+Building target: sum of n numbers
+Invoking: GCC C Linker
+gcc  -o "sum of n numbers" ./src/sum\ of\ n\ numbers.o   
+Finished building target: sum of n numbers
+ 
+21:05:08 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:05:21 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+Building file: ../src/sum of n numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum of n numbers.d" -MT"src/sum of n numbers.o" -o "src/sum of n numbers.o" "../src/sum of n numbers.c"
+Finished building: ../src/sum of n numbers.c
+ 
+Building target: sum of n numbers
+Invoking: GCC C Linker
+gcc  -o "sum of n numbers" ./src/sum\ of\ n\ numbers.o   
+Finished building target: sum of n numbers
+ 
+21:09:51 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:10:07 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:12:44 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+Building file: ../src/sum of n numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum of n numbers.d" -MT"src/sum of n numbers.o" -o "src/sum of n numbers.o" "../src/sum of n numbers.c"
+Finished building: ../src/sum of n numbers.c
+ 
+Building target: sum of n numbers
+Invoking: GCC C Linker
+gcc  -o "sum of n numbers" ./src/sum\ of\ n\ numbers.o   
+Finished building target: sum of n numbers
+ 
+21:15:26 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+Building file: ../src/sum of n numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum of n numbers.d" -MT"src/sum of n numbers.o" -o "src/sum of n numbers.o" "../src/sum of n numbers.c"
+Finished building: ../src/sum of n numbers.c
+ 
+Building target: sum of n numbers
+Invoking: GCC C Linker
+gcc  -o "sum of n numbers" ./src/sum\ of\ n\ numbers.o   
+Finished building target: sum of n numbers
+ 
+21:16:26 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+make: Nothing to be done for 'all'.
+19:15:11 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+make: Nothing to be done for 'all'.
+21:12:42 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+Building file: ../src/sum of n numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum of n numbers.d" -MT"src/sum of n numbers.o" -o "src/sum of n numbers.o" "../src/sum of n numbers.c"
+Finished building: ../src/sum of n numbers.c
+ 
+Building target: sum of n numbers
+Invoking: GCC C Linker
+gcc  -o "sum of n numbers" ./src/sum\ of\ n\ numbers.o   
+Finished building target: sum of n numbers
+ 
+07:47:44 **** Incremental Build of configuration Debug for project sum of n numbers ****
+make all 
+make: Nothing to be done for 'all'.
+07:54:54 **** Build of configuration Debug for project even numbers ****
+make all 
+Building file: ../src/even numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/even numbers.d" -MT"src/even numbers.o" -o "src/even numbers.o" "../src/even numbers.c"
+Finished building: ../src/even numbers.c
+ 
+Building target: even numbers
+Invoking: GCC C Linker
+gcc  -o "even numbers" ./src/even\ numbers.o   
+Finished building target: even numbers
+ 
+07:55:07 **** Incremental Build of configuration Debug for project even numbers ****
+make all 
+Building file: ../src/even numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/even numbers.d" -MT"src/even numbers.o" -o "src/even numbers.o" "../src/even numbers.c"
+../src/even numbers.c: In function ‘main’:
+../src/even numbers.c:18:39: error: expected ‘;’ before ‘}’ token
+   18 |                         printf("%d",i)
+      |                                       ^
+      |                                       ;
+   19 |                 }
+      |                 ~                      
+make: *** [src/subdir.mk:20: src/even numbers.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+07:57:40 **** Incremental Build of configuration Debug for project even numbers ****
+make all 
+Building file: ../src/even numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/even numbers.d" -MT"src/even numbers.o" -o "src/even numbers.o" "../src/even numbers.c"
+Finished building: ../src/even numbers.c
+ 
+Building target: even numbers
+Invoking: GCC C Linker
+gcc  -o "even numbers" ./src/even\ numbers.o   
+Finished building target: even numbers
+ 
+07:57:52 **** Incremental Build of configuration Debug for project even numbers ****
+make all 
+Building file: ../src/even numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/even numbers.d" -MT"src/even numbers.o" -o "src/even numbers.o" "../src/even numbers.c"
+Finished building: ../src/even numbers.c
+ 
+Building target: even numbers
+Invoking: GCC C Linker
+gcc  -o "even numbers" ./src/even\ numbers.o   
+Finished building target: even numbers
+ 
+07:58:49 **** Incremental Build of configuration Debug for project even numbers ****
+make all 
+Building file: ../src/even numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/even numbers.d" -MT"src/even numbers.o" -o "src/even numbers.o" "../src/even numbers.c"
+Finished building: ../src/even numbers.c
+ 
+Building target: even numbers
+Invoking: GCC C Linker
+gcc  -o "even numbers" ./src/even\ numbers.o   
+Finished building target: even numbers
+ 
+07:59:31 **** Incremental Build of configuration Debug for project even numbers ****
+make all 
+make: Nothing to be done for 'all'.
+08:09:49 **** Build of configuration Debug for project prime numbers ****
+make all 
+Building file: ../src/prime numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/prime numbers.d" -MT"src/prime numbers.o" -o "src/prime numbers.o" "../src/prime numbers.c"
+Finished building: ../src/prime numbers.c
+ 
+Building target: prime numbers
+Invoking: GCC C Linker
+gcc  -o "prime numbers" ./src/prime\ numbers.o   
+Finished building target: prime numbers
+ 
+08:09:56 **** Incremental Build of configuration Debug for project prime numbers ****
+make all 
+Building file: ../src/prime numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/prime numbers.d" -MT"src/prime numbers.o" -o "src/prime numbers.o" "../src/prime numbers.c"
+../src/prime numbers.c: In function ‘main’:
+../src/prime numbers.c:17:17: warning: format ‘%d’ expects argument of type ‘int *’, but argument 2 has type ‘int’ [-Wformat=]
+   17 |         scanf("%d",n);
+      |                ~^  ~
+      |                 |  |
+      |                 |  int
+      |                 int *
+../src/prime numbers.c:28:43: error: expected ‘;’ before ‘}’ token
+   28 |                 printf("Not prime number")
+      |                                           ^
+      |                                           ;
+   29 |         }
+      |         ~                                  
+make: *** [src/subdir.mk:20: src/prime numbers.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+08:10:58 **** Incremental Build of configuration Debug for project prime numbers ****
+make all 
+Building file: ../src/prime numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/prime numbers.d" -MT"src/prime numbers.o" -o "src/prime numbers.o" "../src/prime numbers.c"
+../src/prime numbers.c: In function ‘main’:
+../src/prime numbers.c:17:17: warning: format ‘%d’ expects argument of type ‘int *’, but argument 2 has type ‘int’ [-Wformat=]
+   17 |         scanf("%d",n);
+      |                ~^  ~
+      |                 |  |
+      |                 |  int
+      |                 int *
+../src/prime numbers.c:17:9: warning: ‘n’ is used uninitialized [-Wuninitialized]
+   17 |         scanf("%d",n);
+      |         ^~~~~~~~~~~~~
+Finished building: ../src/prime numbers.c
+ 
+Building target: prime numbers
+Invoking: GCC C Linker
+gcc  -o "prime numbers" ./src/prime\ numbers.o   
+Finished building target: prime numbers
+ 
+08:11:48 **** Incremental Build of configuration Debug for project prime numbers ****
+make all 
+make: Nothing to be done for 'all'.
+08:13:00 **** Incremental Build of configuration Debug for project prime numbers ****
+make all 
+Building file: ../src/prime numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/prime numbers.d" -MT"src/prime numbers.o" -o "src/prime numbers.o" "../src/prime numbers.c"
+Finished building: ../src/prime numbers.c
+ 
+Building target: prime numbers
+Invoking: GCC C Linker
+gcc  -o "prime numbers" ./src/prime\ numbers.o   
+Finished building target: prime numbers
+ 
+08:13:34 **** Incremental Build of configuration Debug for project prime numbers ****
+make all 
+Building file: ../src/prime numbers.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/prime numbers.d" -MT"src/prime numbers.o" -o "src/prime numbers.o" "../src/prime numbers.c"
+Finished building: ../src/prime numbers.c
+ 
+Building target: prime numbers
+Invoking: GCC C Linker
+gcc  -o "prime numbers" ./src/prime\ numbers.o   
+Finished building target: prime numbers
+ 
+08:14:01 **** Incremental Build of configuration Debug for project prime numbers ****
+make all 
+make: Nothing to be done for 'all'.
+08:16:00 **** Incremental Build of configuration Debug for project prime numbers ****
+make all 
+make: Nothing to be done for 'all'.
+08:16:08 **** Incremental Build of configuration Debug for project prime numbers ****
+make all 
+make: Nothing to be done for 'all'.
+08:29:31 **** Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+08:29:45 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+08:30:05 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+08:30:26 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+08:30:55 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:15:26 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+make: Nothing to be done for 'all'.
+15:15:51 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:16:11 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:17:29 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:19:52 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:21:02 **** Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:24:29 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:24:54 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:25:28 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+make: Nothing to be done for 'all'.
+15:31:01 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:32:06 **** Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:34:22 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:34:43 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:37:12 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:37:19 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+make: Nothing to be done for 'all'.
+15:37:46 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:39:45 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:39:57 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:40:37 **** Incremental Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 
+15:41:49 **** Build of configuration Debug for project star pattern model ****
+make all 
+Building file: ../src/star pattern model.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/star pattern model.d" -MT"src/star pattern model.o" -o "src/star pattern model.o" "../src/star pattern model.c"
+Finished building: ../src/star pattern model.c
+ 
+Building target: star pattern model
+Invoking: GCC C Linker
+gcc  -o "star pattern model" ./src/star\ pattern\ model.o   
+Finished building target: star pattern model
+ 

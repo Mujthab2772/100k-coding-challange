@@ -1,6 +1,15 @@
-21:29:11 **** Incremental Build of configuration Debug for project base mathemathics choice ****
+20:46:39 **** Build of configuration Debug for project base mathemathics choice ****
 make all 
-make: Nothing to be done for 'all'.
+Building file: ../src/base mathemathics choice.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/base mathemathics choice.d" -MT"src/base mathemathics choice.o" -o "src/base mathemathics choice.o" "../src/base mathemathics choice.c"
+Finished building: ../src/base mathemathics choice.c
+ 
+Building target: base mathemathics choice
+Invoking: GCC C Linker
+gcc  -o "base mathemathics choice" ./src/base\ mathemathics\ choice.o   
+Finished building target: base mathemathics choice
+ 
 
-21:29:12 Build Finished. 0 errors, 0 warnings. (took 520ms)
+20:46:40 Build Finished. 0 errors, 0 warnings. (took 670ms)
 
