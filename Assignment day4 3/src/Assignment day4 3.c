@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : even.c
+ Name        : Assignment.c
  Author      : 
  Version     :
  Copyright   : Your copyright notice
@@ -12,14 +12,19 @@
 #include <stdlib.h>
 
 int main(void) {
-	int limit,i;
+	int limit,i,j,k;
 	printf("Enter a number");
 	scanf("%d",&limit);
 	for(i=1;i<=limit;i++){
-		if(i%2==0){
-			printf("%d\n",i);
+		for(j=1;j<=i;j++){
+			for(k=j;k<=j;k++){
+				printf("%d",k);
+			}
 		}
+
+		printf("\n");
 	}
+
 
 	return EXIT_SUCCESS;
 }

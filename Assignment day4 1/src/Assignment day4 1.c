@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : even.c
+ Name        : Assignment.c
  Author      : 
  Version     :
  Copyright   : Your copyright notice
@@ -12,14 +12,15 @@
 #include <stdlib.h>
 
 int main(void) {
-	int limit,i;
-	printf("Enter a number");
-	scanf("%d",&limit);
-	for(i=1;i<=limit;i++){
-		if(i%2==0){
-			printf("%d\n",i);
+	int num,i,n,result;
+	printf("Which number multiplication you want");
+	scanf("%d",&num);
+	printf("What is the limit");
+	scanf("%d",&n);
+	for(i=1;i<=n;i++){
+		result=(i*num);{
+			printf("%d X %d = %d\n",i,num,result);
 		}
 	}
-
 	return EXIT_SUCCESS;
 }
