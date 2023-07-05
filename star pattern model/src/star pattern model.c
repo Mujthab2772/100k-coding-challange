@@ -17,7 +17,7 @@ int main(void) {
 	scanf("%d",&limit);
 	for(i=1;i<=limit;i++){
 		for(j=limit;j>=i;j--){
-			printf("* ");
+			printf("1 ");
 		}
 		printf("\n");
 	}
