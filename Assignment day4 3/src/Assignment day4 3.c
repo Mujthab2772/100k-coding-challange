@@ -18,7 +18,7 @@ int main(void) {
 	for(i=1;i<=limit;i++){
 		for(j=1;j<=i;j++){
 			for(k=j;k<=j;k++){
-				printf("%d",k);
+				printf("%d ",k);
 			}
 		}
 
