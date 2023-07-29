@@ -6691,3 +6691,782 @@ java.io.FileNotFoundException: /home/user/eclipse-workspace/Assignmnet day5 3/De
 	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
 	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2023-07-28 16:45:17.920 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:43.351
+!MESSAGE Indexed 'Array  sample' (2 sources, 56 headers) in 1.05 sec: 980 declarations; 1,998 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:44.051
+!MESSAGE Indexed 'even numbers' (1 sources, 56 headers) in 0.692 sec: 976 declarations; 1,979 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:44.641
+!MESSAGE Indexed 'Array sum' (1 sources, 56 headers) in 0.586 sec: 978 declarations; 1,990 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:57.748
+!MESSAGE Indexed 'star pattern model' (1 sources, 56 headers) in 0.361 sec: 977 declarations; 1,983 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:58.022
+!MESSAGE Indexed 'sample 100k' (1 sources, 56 headers) in 0.272 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:58.285
+!MESSAGE Indexed 'large number' (1 sources, 56 headers) in 0.26 sec: 976 declarations; 1,979 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:58.514
+!MESSAGE Indexed 'Array sorting' (1 sources, 56 headers) in 0.226 sec: 979 declarations; 2,011 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:58.687
+!MESSAGE Indexed 'average 3 numbers' (1 sources, 56 headers) in 0.171 sec: 978 declarations; 1,980 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:58.861
+!MESSAGE Indexed 'largest among 3 numbers' (1 sources, 56 headers) in 0.172 sec: 977 declarations; 1,990 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:59.044
+!MESSAGE Indexed 'base mathemathics choice' (1 sources, 56 headers) in 0.181 sec: 978 declarations; 2,001 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:59.227
+!MESSAGE Indexed 'sample output' (1 sources, 56 headers) in 0.181 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:59.396
+!MESSAGE Indexed 'assignment day2 question3' (1 sources, 56 headers) in 0.167 sec: 978 declarations; 1,980 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:59.568
+!MESSAGE Indexed 'sample input' (1 sources, 56 headers) in 0.169 sec: 975 declarations; 1,974 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:59.740
+!MESSAGE Indexed 'assignment day2' (1 sources, 56 headers) in 0.169 sec: 975 declarations; 1,974 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:48:59.997
+!MESSAGE Indexed 'swapping' (1 sources, 56 headers) in 0.255 sec: 977 declarations; 1,978 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:00.184
+!MESSAGE Indexed 'assignment day3 1' (1 sources, 56 headers) in 0.185 sec: 975 declarations; 1,975 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:00.367
+!MESSAGE Indexed 'hello' (1 sources, 56 headers) in 0.182 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:00.568
+!MESSAGE Indexed 'Assignment day3 2' (1 sources, 56 headers) in 0.198 sec: 975 declarations; 1,991 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:00.751
+!MESSAGE Indexed 'Assignment day4 1' (1 sources, 56 headers) in 0.18 sec: 978 declarations; 1,986 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:00.912
+!MESSAGE Indexed 'Array outout and input' (1 sources, 56 headers) in 0.158 sec: 977 declarations; 1,988 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:01.049
+!MESSAGE Indexed 'Assignment day4 3' (1 sources, 56 headers) in 0.135 sec: 978 declarations; 1,988 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:01.188
+!MESSAGE Indexed 'Assignment day5 2' (1 sources, 56 headers) in 0.137 sec: 978 declarations; 1,990 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:01.323
+!MESSAGE Indexed 'Assignment day3 3' (1 sources, 56 headers) in 0.133 sec: 975 declarations; 1,981 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:01.458
+!MESSAGE Indexed 'Assignment day4 2' (1 sources, 56 headers) in 0.133 sec: 977 declarations; 1,982 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:01.629
+!MESSAGE Indexed 'Assignment day5 1' (1 sources, 56 headers) in 0.168 sec: 979 declarations; 2,015 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:01.799
+!MESSAGE Indexed 'for loop 1 to 100' (1 sources, 56 headers) in 0.167 sec: 975 declarations; 1,974 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:01.964
+!MESSAGE Indexed 'assignment day2 second question' (1 sources, 56 headers) in 0.162 sec: 977 declarations; 1,978 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:02.152
+!MESSAGE Indexed 'prime numbers' (1 sources, 56 headers) in 0.183 sec: 977 declarations; 1,982 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:02.328
+!MESSAGE Indexed 'sum of two numbers' (1 sources, 56 headers) in 0.174 sec: 977 declarations; 1,978 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:02.493
+!MESSAGE Indexed 'sum of n numbers' (1 sources, 56 headers) in 0.163 sec: 977 declarations; 1,981 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:02.627
+!MESSAGE Indexed 'Control statement' (1 sources, 56 headers) in 0.129 sec: 975 declarations; 1,975 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 16:49:02.766
+!MESSAGE Indexed 'menu with switch' (1 sources, 56 headers) in 0.136 sec: 975 declarations; 1,978 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2023-07-28 16:53:55.763
+!MESSAGE Connection to https://marketplace.eclipse.org/category/free-tagging/fileExtension_average+3+numbers/api/p?client=org.eclipse.epp.mpc.core&os=linux&platform.version=4.28 failed on marketplace.eclipse.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1009)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:997)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.epp.mpc.ui 4 0 2023-07-28 16:53:55.970
+!MESSAGE File support discovery for average 3 numbers failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot complete request to https://marketplace.eclipse.org/category/free-tagging/fileExtension_average+3+numbers/api/p?client=org.eclipse.epp.mpc.core&os=linux&platform.version=4.28: Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:195)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:501)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:85)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:112)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:74)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:164)
+	... 12 more
+	Suppressed: org.eclipse.core.runtime.CoreException: Unknown Host: https://marketplace.eclipse.org/category/free-tagging/fileExtension_average+3+numbers/api/p?client=org.eclipse.epp.mpc.core&os=linux&platform.version=4.28
+		at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:221)
+		at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:278)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+		at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:421)
+		at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:130)
+		at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:91)
+		... 13 more
+	Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+		at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+		at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+		at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+		at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+		at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+		at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+		at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+		at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+		at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+		at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+		at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+		at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1009)
+		at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:997)
+		at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+		... 1 more
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:87)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:79)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.RequestTemplate.execute(RequestTemplate.java:45)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:97)
+	... 14 more
+!SUBENTRY 1 org.eclipse.epp.mpc.core 4 0 2023-07-28 16:53:55.972
+!MESSAGE Cannot complete request to https://marketplace.eclipse.org/category/free-tagging/fileExtension_average+3+numbers/api/p?client=org.eclipse.epp.mpc.core&os=linux&platform.version=4.28: Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:112)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:74)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:164)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:501)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:85)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+	Suppressed: org.eclipse.core.runtime.CoreException: Unknown Host: https://marketplace.eclipse.org/category/free-tagging/fileExtension_average+3+numbers/api/p?client=org.eclipse.epp.mpc.core&os=linux&platform.version=4.28
+		at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:221)
+		at org.eclipse.oomph.p2.internal.core.CachingTransport.stream(CachingTransport.java:278)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:37)
+		at org.eclipse.epp.internal.mpc.core.util.TransportFactory.lambda$0(TransportFactory.java:421)
+		at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.primaryFailed(FallbackTransportFactory.java:130)
+		at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:91)
+		... 13 more
+	Caused by: java.net.UnknownHostException: marketplace.eclipse.org
+		at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:801)
+		at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+		at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+		at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+		at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+		at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+		at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+		at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+		at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+		at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+		at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+		at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+		at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+		at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+		at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1009)
+		at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:997)
+		at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+		... 1 more
+Caused by: java.net.UnknownHostException: marketplace.eclipse.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:87)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:79)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.RequestTemplate.execute(RequestTemplate.java:45)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:97)
+	... 14 more
+Contains: Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+java.net.UnknownHostException: marketplace.eclipse.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:87)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:79)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.RequestTemplate.execute(RequestTemplate.java:45)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:97)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:74)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:164)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:501)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:85)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.epp.mpc.core 4 0 2023-07-28 16:53:55.973
+!MESSAGE Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:87)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:79)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.RequestTemplate.execute(RequestTemplate.java:45)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:97)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:74)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:164)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:501)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:85)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 3 org.eclipse.epp.mpc.core 4 0 2023-07-28 16:53:55.974
+!MESSAGE Cannot resolve host
+
+This is most often caused by a problem with your internet connection. Please check your internet connection and retry.
+!STACK 0
+java.net.UnknownHostException: marketplace.eclipse.org: Temporary failure in name resolution
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:118)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:396)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:158)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:168)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:136)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:175)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:133)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement$1.proceed(ExecChainElement.java:57)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:75)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:87)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientService.execute(HttpClientService.java:79)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.RequestTemplate.execute(RequestTemplate.java:45)
+	at org.eclipse.epp.internal.mpc.core.transport.httpclient.HttpClientTransport.stream(HttpClientTransport.java:97)
+	at org.eclipse.epp.internal.mpc.core.util.FallbackTransportFactory$FallbackTransport.stream(FallbackTransportFactory.java:74)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:164)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.processSearchRequest(DefaultMarketplaceService.java:501)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:528)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.tagged(DefaultMarketplaceService.java:1)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.lambda$1(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.performSearch(CachingMarketplaceService.java:331)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:312)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.tagged(CachingMarketplaceService.java:318)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:85)
+	at org.eclipse.epp.internal.mpc.ui.discovery.DiscoverFileSupportJob.run(DiscoverFileSupportJob.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2023-07-28 20:39:28.375 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 20:44:40.842
+!MESSAGE Indexed 'just c++' (1 sources, 0 headers) in 0.179 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.core.resources 2 2 2023-07-28 20:49:44.907
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2023-07-28 20:49:44.908
+!MESSAGE The project description file (.project) for 'just c++' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 21:02:11.418
+!MESSAGE Indexed 'string' (1 sources, 0 headers) in 0.041 sec: 2 declarations; 1 references; 2 unresolved inclusions; 0 syntax errors; 1 unresolved names (25%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 21:20:08.219
+!MESSAGE Indexed 'multi dimensional array' (1 sources, 56 headers) in 0.32 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 22:01:22.450
+!MESSAGE Indexed 'Funtions without arugment and with out return value' (1 sources, 56 headers) in 0.242 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 22:12:32.901
+!MESSAGE Indexed 'Function with argument without return value' (1 sources, 0 headers) in 0.029 sec: 2 declarations; 1 references; 2 unresolved inclusions; 0 syntax errors; 1 unresolved names (25%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 22:21:29.001
+!MESSAGE Indexed 'Function with argument with return value' (1 sources, 56 headers) in 0.28 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2023-07-28 22:24:59.315
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Function with argument with return value/Debug/Function with argument with return value not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2023-07-28 22:24:59.316
+!MESSAGE /home/user/eclipse-workspace/Function with argument with return value/Debug/Function with argument with return value not found
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Function with argument with return value/Debug/Function with argument with return value not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2023-07-28 22:25:10.985
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Function with argument with return value/Debug/Function with argument with return value not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2023-07-28 22:25:10.986
+!MESSAGE /home/user/eclipse-workspace/Function with argument with return value/Debug/Function with argument with return value not found
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Function with argument with return value/Debug/Function with argument with return value not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-28 22:27:15.496
+!MESSAGE Indexed 'Function without argument and with resturn value' (1 sources, 56 headers) in 0.188 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2023-07-29 08:01:38.659 -----------------------------------------------
+eclipse.buildId=4.28.0.20230608-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-29 08:10:38.275
+!MESSAGE Indexed 'Assigment day6 1' (1 sources, 0 headers) in 0.091 sec: 2 declarations; 1 references; 2 unresolved inclusions; 0 syntax errors; 1 unresolved names (25%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-29 08:58:42.995
+!MESSAGE Indexed 'Assigment day6 2' (1 sources, 0 headers) in 0.022 sec: 2 declarations; 1 references; 2 unresolved inclusions; 0 syntax errors; 1 unresolved names (25%)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2023-07-29 09:03:32.460
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 2/Debug/Assigment day6 2 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2023-07-29 09:03:32.461
+!MESSAGE /home/user/eclipse-workspace/Assigment day6 2/Debug/Assigment day6 2 not found
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 2/Debug/Assigment day6 2 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.ui 4 0 2023-07-29 09:12:13.033
+!MESSAGE Error in CDT UI during reconcile
+!STACK 1
+C Model Exception: C Model Status [Element Assigment day6 2.c does not exist.]
+	at org.eclipse.cdt.internal.core.model.CElement.newNotPresentException(CElement.java:485)
+	at org.eclipse.cdt.internal.core.model.TranslationUnit.makeConsistent(TranslationUnit.java:583)
+	at org.eclipse.cdt.internal.core.model.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:65)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:346)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:613)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:641)
+	at org.eclipse.cdt.internal.core.model.WorkingCopy.reconcile(WorkingCopy.java:365)
+	at org.eclipse.cdt.internal.ui.text.CReconcilingStrategy.reconcile(CReconcilingStrategy.java:79)
+	at org.eclipse.cdt.internal.ui.text.CReconcilingStrategy.reconcile(CReconcilingStrategy.java:64)
+	at org.eclipse.cdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:89)
+	at org.eclipse.cdt.internal.ui.text.CCompositeReconcilingStrategy.reconcile(CCompositeReconcilingStrategy.java:90)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.cdt.internal.ui.text.CReconciler.process(CReconciler.java:346)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.cdt.core 4 969 2023-07-29 09:12:13.035
+!MESSAGE Element Assigment day6 2.c does not exist.
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-07-29 09:27:58.724
+!MESSAGE Indexed 'Assigment day6 3' (1 sources, 56 headers) in 0.309 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2023-07-29 09:38:09.807
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2023-07-29 09:38:09.807
+!MESSAGE /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2023-07-29 09:38:55.472
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2023-07-29 09:38:55.473
+!MESSAGE /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2023-07-29 09:39:49.763
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2023-07-29 09:39:49.764
+!MESSAGE /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2023-07-29 09:41:29.712
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2023-07-29 09:41:29.713
+!MESSAGE /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2023-07-29 09:48:41.874
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2023-07-29 09:48:41.875
+!MESSAGE /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+!STACK 0
+java.io.FileNotFoundException: /home/user/eclipse-workspace/Assigment day6 3/Debug/Assigment day6 3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:806)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:717)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1040)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1243)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
