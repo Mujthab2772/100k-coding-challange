@@ -32,7 +32,7 @@ int main(void) {
     	 }
      }
 
-     printf("Sorted array");
+     printf("Sorted array=");
      for(i=0;i<limit;i++){
     	 printf("%d  ",a[i]);
      }

@@ -85,3 +85,1253 @@ Invoking: GCC C Linker
 gcc  -o "Assignmnet day5 3" ./src/Assignmnet\ day5\ 3.o   
 Finished building target: Assignmnet day5 3
  
+21:25:02 **** Incremental Build of configuration Debug for project Assignmnet day5 3 ****
+make all 
+make: Nothing to be done for 'all'.
+21:25:26 **** Incremental Build of configuration Debug for project Assignmnet day5 3 ****
+make all 
+make: Nothing to be done for 'all'.
+16:45:44 **** Incremental Build of configuration Debug for project Assignmnet day5 3 ****
+make all 
+make: Nothing to be done for 'all'.
+16:47:16 **** Incremental Build of configuration Debug for project Assignmnet day5 3 ****
+make all 
+Building file: ../src/Assignmnet day5 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assignmnet day5 3.d" -MT"src/Assignmnet day5 3.o" -o "src/Assignmnet day5 3.o" "../src/Assignmnet day5 3.c"
+Finished building: ../src/Assignmnet day5 3.c
+ 
+Building target: Assignmnet day5 3
+Invoking: GCC C Linker
+gcc  -o "Assignmnet day5 3" ./src/Assignmnet\ day5\ 3.o   
+Finished building target: Assignmnet day5 3
+ 
+16:54:17 **** Build of configuration Debug for project average 3 numbers ****
+make all 
+make: Nothing to be done for 'all'.
+16:56:55 **** Incremental Build of configuration Debug for project Assignmnet day5 3 ****
+make all 
+make: Nothing to be done for 'all'.
+20:41:51 **** Incremental Build of configuration Debug for project Assignmnet day5 3 ****
+make all 
+make: Nothing to be done for 'all'.
+20:45:09 **** Build of configuration Debug for project just c++ ****
+make all 
+Building file: ../src/just c++.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/just c++.d" -MT"src/just c++.o" -o "src/just c++.o" "../src/just c++.cpp"
+Finished building: ../src/just c++.cpp
+ 
+Building target: just c++
+Invoking: GCC C++ Linker
+g++  -o "just c++" ./src/just\ c++.o   
+Finished building target: just c++
+ 
+20:45:17 **** Incremental Build of configuration Debug for project just c++ ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:54 **** Incremental Build of configuration Debug for project Assignmnet day5 3 ****
+make all 
+make: Nothing to be done for 'all'.
+21:03:55 **** Build of configuration Debug for project string ****
+make all 
+Building file: ../src/string.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/string.d" -MT"src/string.o" -o "src/string.o" "../src/string.c"
+Finished building: ../src/string.c
+ 
+Building target: string
+Invoking: GCC C Linker
+gcc  -o "string" ./src/string.o   
+Finished building target: string
+ 
+21:04:02 **** Incremental Build of configuration Debug for project string ****
+make all 
+Building file: ../src/string.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/string.d" -MT"src/string.o" -o "src/string.o" "../src/string.c"
+../src/string.c: In function ‘main’:
+../src/string.c:17:17: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%s",name);
+      |                ~^  ~~~~
+      |                 |  |
+      |                 |  int *
+      |                 char *
+      |                %ls
+../src/string.c:19:34: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   19 |         printf("Entered name is %s",name);
+      |                                 ~^  ~~~~
+      |                                  |  |
+      |                                  |  int *
+      |                                  char *
+      |                                 %ls
+Finished building: ../src/string.c
+ 
+Building target: string
+Invoking: GCC C Linker
+gcc  -o "string" ./src/string.o   
+Finished building target: string
+ 
+21:04:44 **** Incremental Build of configuration Debug for project string ****
+make all 
+make: Nothing to be done for 'all'.
+21:05:04 **** Incremental Build of configuration Debug for project string ****
+make all 
+make: Nothing to be done for 'all'.
+21:05:39 **** Incremental Build of configuration Debug for project string ****
+make all 
+Building file: ../src/string.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/string.d" -MT"src/string.o" -o "src/string.o" "../src/string.c"
+../src/string.c: In function ‘main’:
+../src/string.c:17:9: warning: implicit declaration of function ‘gets’; did you mean ‘fgets’? [-Wimplicit-function-declaration]
+   17 |         gets(name);
+      |         ^~~~
+      |         fgets
+../src/string.c:19:34: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   19 |         printf("Entered name is %s",name);
+      |                                 ~^  ~~~~
+      |                                  |  |
+      |                                  |  int *
+      |                                  char *
+      |                                 %ls
+Finished building: ../src/string.c
+ 
+Building target: string
+Invoking: GCC C Linker
+gcc  -o "string" ./src/string.o   
+/usr/bin/ld: ./src/string.o: in function `main':
+/home/user/eclipse-workspace/string/Debug/../src/string.c:17: warning: the `gets' function is dangerous and should not be used.
+Finished building target: string
+ 
+21:07:34 **** Incremental Build of configuration Debug for project string ****
+make all 
+Building file: ../src/string.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/string.d" -MT"src/string.o" -o "src/string.o" "../src/string.c"
+../src/string.c: In function ‘main’:
+../src/string.c:17:9: warning: implicit declaration of function ‘gets’; did you mean ‘fgets’? [-Wimplicit-function-declaration]
+   17 |         gets(name);
+      |         ^~~~
+      |         fgets
+../src/string.c:20:34: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   20 |         printf("Entered name is %s",name);
+      |                                 ~^  ~~~~
+      |                                  |  |
+      |                                  |  int *
+      |                                  char *
+      |                                 %ls
+Finished building: ../src/string.c
+ 
+Building target: string
+Invoking: GCC C Linker
+gcc  -o "string" ./src/string.o   
+/usr/bin/ld: ./src/string.o: in function `main':
+/home/user/eclipse-workspace/string/Debug/../src/string.c:17: warning: the `gets' function is dangerous and should not be used.
+Finished building target: string
+ 
+21:08:11 **** Incremental Build of configuration Debug for project string ****
+make all 
+Building file: ../src/string.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/string.d" -MT"src/string.o" -o "src/string.o" "../src/string.c"
+../src/string.c: In function ‘main’:
+../src/string.c:17:17: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%s",name);
+      |                ~^  ~~~~
+      |                 |  |
+      |                 |  int *
+      |                 char *
+      |                %ls
+../src/string.c:20:34: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   20 |         printf("Entered name is %s",name);
+      |                                 ~^  ~~~~
+      |                                  |  |
+      |                                  |  int *
+      |                                  char *
+      |                                 %ls
+Finished building: ../src/string.c
+ 
+Building target: string
+Invoking: GCC C Linker
+gcc  -o "string" ./src/string.o   
+Finished building target: string
+ 
+21:08:41 **** Incremental Build of configuration Debug for project string ****
+make all 
+make: Nothing to be done for 'all'.
+21:08:48 **** Incremental Build of configuration Debug for project string ****
+make all 
+Building file: ../src/string.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/string.d" -MT"src/string.o" -o "src/string.o" "../src/string.c"
+../src/string.c: In function ‘main’:
+../src/string.c:17:17: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%s",name);
+      |                ~^  ~~~~
+      |                 |  |
+      |                 |  int *
+      |                 char *
+      |                %ls
+../src/string.c:20:34: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   20 |         printf("Entered name is %s",name);
+      |                                 ~^  ~~~~
+      |                                  |  |
+      |                                  |  int *
+      |                                  char *
+      |                                 %ls
+Finished building: ../src/string.c
+ 
+Building target: string
+Invoking: GCC C Linker
+gcc  -o "string" ./src/string.o   
+Finished building target: string
+ 
+21:09:00 **** Incremental Build of configuration Debug for project string ****
+make all 
+make: Nothing to be done for 'all'.
+21:09:34 **** Incremental Build of configuration Debug for project string ****
+make all 
+Building file: ../src/string.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/string.d" -MT"src/string.o" -o "src/string.o" "../src/string.c"
+../src/string.c: In function ‘main’:
+../src/string.c:17:17: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%s",name); //gets(name);
+      |                ~^  ~~~~
+      |                 |  |
+      |                 |  int *
+      |                 char *
+      |                %ls
+../src/string.c:20:34: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   20 |         printf("Entered name is %s",name);
+      |                                 ~^  ~~~~
+      |                                  |  |
+      |                                  |  int *
+      |                                  char *
+      |                                 %ls
+Finished building: ../src/string.c
+ 
+Building target: string
+Invoking: GCC C Linker
+gcc  -o "string" ./src/string.o   
+Finished building target: string
+ 
+21:09:49 **** Incremental Build of configuration Debug for project string ****
+make all 
+Building file: ../src/string.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/string.d" -MT"src/string.o" -o "src/string.o" "../src/string.c"
+../src/string.c: In function ‘main’:
+../src/string.c:17:17: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   17 |         scanf("%s",name);
+      |                ~^  ~~~~
+      |                 |  |
+      |                 |  int *
+      |                 char *
+      |                %ls
+../src/string.c:20:34: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int *’ [-Wformat=]
+   20 |         printf("Entered name is %s",name);
+      |                                 ~^  ~~~~
+      |                                  |  |
+      |                                  |  int *
+      |                                  char *
+      |                                 %ls
+Finished building: ../src/string.c
+ 
+Building target: string
+Invoking: GCC C Linker
+gcc  -o "string" ./src/string.o   
+Finished building target: string
+ 
+21:13:21 **** Incremental Build of configuration Debug for project string ****
+make all 
+make: Nothing to be done for 'all'.
+21:13:26 **** Incremental Build of configuration Debug for project string ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:14 **** Build of configuration Debug for project multi dimensional array ****
+make all 
+Building file: ../src/multi dimensional array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/multi dimensional array.d" -MT"src/multi dimensional array.o" -o "src/multi dimensional array.o" "../src/multi dimensional array.c"
+Finished building: ../src/multi dimensional array.c
+ 
+Building target: multi dimensional array
+Invoking: GCC C Linker
+gcc  -o "multi dimensional array" ./src/multi\ dimensional\ array.o   
+Finished building target: multi dimensional array
+ 
+21:26:22 **** Incremental Build of configuration Debug for project multi dimensional array ****
+make all 
+Building file: ../src/multi dimensional array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/multi dimensional array.d" -MT"src/multi dimensional array.o" -o "src/multi dimensional array.o" "../src/multi dimensional array.c"
+Finished building: ../src/multi dimensional array.c
+ 
+Building target: multi dimensional array
+Invoking: GCC C Linker
+gcc  -o "multi dimensional array" ./src/multi\ dimensional\ array.o   
+Finished building target: multi dimensional array
+ 
+21:27:16 **** Incremental Build of configuration Debug for project multi dimensional array ****
+make all 
+Building file: ../src/multi dimensional array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/multi dimensional array.d" -MT"src/multi dimensional array.o" -o "src/multi dimensional array.o" "../src/multi dimensional array.c"
+Finished building: ../src/multi dimensional array.c
+ 
+Building target: multi dimensional array
+Invoking: GCC C Linker
+gcc  -o "multi dimensional array" ./src/multi\ dimensional\ array.o   
+Finished building target: multi dimensional array
+ 
+21:28:10 **** Incremental Build of configuration Debug for project multi dimensional array ****
+make all 
+Building file: ../src/multi dimensional array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/multi dimensional array.d" -MT"src/multi dimensional array.o" -o "src/multi dimensional array.o" "../src/multi dimensional array.c"
+Finished building: ../src/multi dimensional array.c
+ 
+Building target: multi dimensional array
+Invoking: GCC C Linker
+gcc  -o "multi dimensional array" ./src/multi\ dimensional\ array.o   
+Finished building target: multi dimensional array
+ 
+21:28:43 **** Incremental Build of configuration Debug for project multi dimensional array ****
+make all 
+Building file: ../src/multi dimensional array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/multi dimensional array.d" -MT"src/multi dimensional array.o" -o "src/multi dimensional array.o" "../src/multi dimensional array.c"
+Finished building: ../src/multi dimensional array.c
+ 
+Building target: multi dimensional array
+Invoking: GCC C Linker
+gcc  -o "multi dimensional array" ./src/multi\ dimensional\ array.o   
+Finished building target: multi dimensional array
+ 
+21:44:30 **** Incremental Build of configuration Debug for project multi dimensional array ****
+make all 
+Building file: ../src/multi dimensional array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/multi dimensional array.d" -MT"src/multi dimensional array.o" -o "src/multi dimensional array.o" "../src/multi dimensional array.c"
+Finished building: ../src/multi dimensional array.c
+ 
+Building target: multi dimensional array
+Invoking: GCC C Linker
+gcc  -o "multi dimensional array" ./src/multi\ dimensional\ array.o   
+Finished building target: multi dimensional array
+ 
+22:04:19 **** Build of configuration Debug for project Funtions without arugment and with out return value ****
+make all 
+Building file: ../src/Funtions without arugment and with out return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Funtions without arugment and with out return value.d" -MT"src/Funtions without arugment and with out return value.o" -o "src/Funtions without arugment and with out return value.o" "../src/Funtions without arugment and with out return value.c"
+Finished building: ../src/Funtions without arugment and with out return value.c
+ 
+Building target: Funtions without arugment and with out return value
+Invoking: GCC C Linker
+gcc  -o "Funtions without arugment and with out return value" ./src/Funtions\ without\ arugment\ and\ with\ out\ return\ value.o   
+Finished building target: Funtions without arugment and with out return value
+ 
+22:04:46 **** Incremental Build of configuration Debug for project Funtions without arugment and with out return value ****
+make all 
+Building file: ../src/Funtions without arugment and with out return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Funtions without arugment and with out return value.d" -MT"src/Funtions without arugment and with out return value.o" -o "src/Funtions without arugment and with out return value.o" "../src/Funtions without arugment and with out return value.c"
+../src/Funtions without arugment and with out return value.c: In function ‘main’:
+../src/Funtions without arugment and with out return value.c:16:9: warning: implicit declaration of function ‘sum’ [-Wimplicit-function-declaration]
+   16 |         sum();
+      |         ^~~
+../src/Funtions without arugment and with out return value.c: At top level:
+../src/Funtions without arugment and with out return value.c:20:6: warning: conflicting types for ‘sum’; have ‘void()’
+   20 | void sum(){
+      |      ^~~
+../src/Funtions without arugment and with out return value.c:16:9: note: previous implicit declaration of ‘sum’ with type ‘void()’
+   16 |         sum();
+      |         ^~~
+Finished building: ../src/Funtions without arugment and with out return value.c
+ 
+Building target: Funtions without arugment and with out return value
+Invoking: GCC C Linker
+gcc  -o "Funtions without arugment and with out return value" ./src/Funtions\ without\ arugment\ and\ with\ out\ return\ value.o   
+Finished building target: Funtions without arugment and with out return value
+ 
+22:05:36 **** Incremental Build of configuration Debug for project Funtions without arugment and with out return value ****
+make all 
+Building file: ../src/Funtions without arugment and with out return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Funtions without arugment and with out return value.d" -MT"src/Funtions without arugment and with out return value.o" -o "src/Funtions without arugment and with out return value.o" "../src/Funtions without arugment and with out return value.c"
+Finished building: ../src/Funtions without arugment and with out return value.c
+ 
+Building target: Funtions without arugment and with out return value
+Invoking: GCC C Linker
+gcc  -o "Funtions without arugment and with out return value" ./src/Funtions\ without\ arugment\ and\ with\ out\ return\ value.o   
+Finished building target: Funtions without arugment and with out return value
+ 
+22:05:47 **** Incremental Build of configuration Debug for project Funtions without arugment and with out return value ****
+make all 
+make: Nothing to be done for 'all'.
+22:07:18 **** Incremental Build of configuration Debug for project Funtions without arugment and with out return value ****
+make all 
+Building file: ../src/Funtions without arugment and with out return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Funtions without arugment and with out return value.d" -MT"src/Funtions without arugment and with out return value.o" -o "src/Funtions without arugment and with out return value.o" "../src/Funtions without arugment and with out return value.c"
+Finished building: ../src/Funtions without arugment and with out return value.c
+ 
+Building target: Funtions without arugment and with out return value
+Invoking: GCC C Linker
+gcc  -o "Funtions without arugment and with out return value" ./src/Funtions\ without\ arugment\ and\ with\ out\ return\ value.o   
+Finished building target: Funtions without arugment and with out return value
+ 
+22:16:50 **** Build of configuration Debug for project Function with argument without return value ****
+make all 
+Building file: ../src/Function with argument without return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Function with argument without return value.d" -MT"src/Function with argument without return value.o" -o "src/Function with argument without return value.o" "../src/Function with argument without return value.c"
+Finished building: ../src/Function with argument without return value.c
+ 
+Building target: Function with argument without return value
+Invoking: GCC C Linker
+gcc  -o "Function with argument without return value" ./src/Function\ with\ argument\ without\ return\ value.o   
+Finished building target: Function with argument without return value
+ 
+22:16:57 **** Incremental Build of configuration Debug for project Function with argument without return value ****
+make all 
+Building file: ../src/Function with argument without return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Function with argument without return value.d" -MT"src/Function with argument without return value.o" -o "src/Function with argument without return value.o" "../src/Function with argument without return value.c"
+Finished building: ../src/Function with argument without return value.c
+ 
+Building target: Function with argument without return value
+Invoking: GCC C Linker
+gcc  -o "Function with argument without return value" ./src/Function\ with\ argument\ without\ return\ value.o   
+Finished building target: Function with argument without return value
+ 
+22:24:44 **** Build of configuration Debug for project Function with argument with return value ****
+make all 
+Building file: ../src/Function with argument with return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Function with argument with return value.d" -MT"src/Function with argument with return value.o" -o "src/Function with argument with return value.o" "../src/Function with argument with return value.c"
+Finished building: ../src/Function with argument with return value.c
+ 
+Building target: Function with argument with return value
+Invoking: GCC C Linker
+gcc  -o "Function with argument with return value" ./src/Function\ with\ argument\ with\ return\ value.o   
+Finished building target: Function with argument with return value
+ 
+22:24:55 **** Incremental Build of configuration Debug for project Function with argument with return value ****
+make all 
+Building file: ../src/Function with argument with return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Function with argument with return value.d" -MT"src/Function with argument with return value.o" -o "src/Function with argument with return value.o" "../src/Function with argument with return value.c"
+../src/Function with argument with return value.c: In function ‘sum’:
+../src/Function with argument with return value.c:14:16: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘{’ token
+   14 | int main(void) {
+      |                ^
+../src/Function with argument with return value.c:25:27: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘{’ token
+   25 | int sum(int num1,int num2){
+      |                           ^
+../src/Function with argument with return value.c:30: error: expected ‘{’ at end of input
+../src/Function with argument with return value.c:30: warning: control reaches end of non-void function [-Wreturn-type]
+make: *** [src/subdir.mk:20: src/Function with argument with return value.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+22:25:08 **** Incremental Build of configuration Debug for project Function with argument with return value ****
+make all 
+Building file: ../src/Function with argument with return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Function with argument with return value.d" -MT"src/Function with argument with return value.o" -o "src/Function with argument with return value.o" "../src/Function with argument with return value.c"
+../src/Function with argument with return value.c: In function ‘sum’:
+../src/Function with argument with return value.c:14:16: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘{’ token
+   14 | int main(void) {
+      |                ^
+../src/Function with argument with return value.c:25:27: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘{’ token
+   25 | int sum(int num1,int num2){
+      |                           ^
+../src/Function with argument with return value.c:30: error: expected ‘{’ at end of input
+../src/Function with argument with return value.c:30: warning: control reaches end of non-void function [-Wreturn-type]
+make: *** [src/subdir.mk:20: src/Function with argument with return value.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+22:25:18 **** Incremental Build of configuration Debug for project Function with argument with return value ****
+make all 
+Building file: ../src/Function with argument with return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Function with argument with return value.d" -MT"src/Function with argument with return value.o" -o "src/Function with argument with return value.o" "../src/Function with argument with return value.c"
+Finished building: ../src/Function with argument with return value.c
+ 
+Building target: Function with argument with return value
+Invoking: GCC C Linker
+gcc  -o "Function with argument with return value" ./src/Function\ with\ argument\ with\ return\ value.o   
+Finished building target: Function with argument with return value
+ 
+22:25:34 **** Incremental Build of configuration Debug for project Function with argument with return value ****
+make all 
+Building file: ../src/Function with argument with return value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Function with argument with return value.d" -MT"src/Function with argument with return value.o" -o "src/Function with argument with return value.o" "../src/Function with argument with return value.c"
+Finished building: ../src/Function with argument with return value.c
+ 
+Building target: Function with argument with return value
+Invoking: GCC C Linker
+gcc  -o "Function with argument with return value" ./src/Function\ with\ argument\ with\ return\ value.o   
+Finished building target: Function with argument with return value
+ 
+22:29:40 **** Build of configuration Debug for project Function without argument and with resturn value ****
+make all 
+Building file: ../src/Function without argument and with resturn value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Function without argument and with resturn value.d" -MT"src/Function without argument and with resturn value.o" -o "src/Function without argument and with resturn value.o" "../src/Function without argument and with resturn value.c"
+Finished building: ../src/Function without argument and with resturn value.c
+ 
+Building target: Function without argument and with resturn value
+Invoking: GCC C Linker
+gcc  -o "Function without argument and with resturn value" ./src/Function\ without\ argument\ and\ with\ resturn\ value.o   
+Finished building target: Function without argument and with resturn value
+ 
+22:29:46 **** Incremental Build of configuration Debug for project Function without argument and with resturn value ****
+make all 
+Building file: ../src/Function without argument and with resturn value.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Function without argument and with resturn value.d" -MT"src/Function without argument and with resturn value.o" -o "src/Function without argument and with resturn value.o" "../src/Function without argument and with resturn value.c"
+Finished building: ../src/Function without argument and with resturn value.c
+ 
+Building target: Function without argument and with resturn value
+Invoking: GCC C Linker
+gcc  -o "Function without argument and with resturn value" ./src/Function\ without\ argument\ and\ with\ resturn\ value.o   
+Finished building target: Function without argument and with resturn value
+ 
+08:17:11 **** Build of configuration Debug for project Assigment day6 1 ****
+make all 
+Building file: ../src/Assigment day6 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 1.d" -MT"src/Assigment day6 1.o" -o "src/Assigment day6 1.o" "../src/Assigment day6 1.c"
+Finished building: ../src/Assigment day6 1.c
+ 
+Building target: Assigment day6 1
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 1" ./src/Assigment\ day6\ 1.o   
+Finished building target: Assigment day6 1
+ 
+08:17:19 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+Building file: ../src/Assigment day6 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 1.d" -MT"src/Assigment day6 1.o" -o "src/Assigment day6 1.o" "../src/Assigment day6 1.c"
+../src/Assigment day6 1.c: In function ‘main’:
+../src/Assigment day6 1.c:19:15: warning: implicit declaration of function ‘strlen’ [-Wimplicit-function-declaration]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:13:1: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+   12 | #include <stdlib.h>
+  +++ |+#include <string.h>
+   13 | 
+../src/Assigment day6 1.c:19:15: warning: incompatible implicit declaration of built-in function ‘strlen’ [-Wbuiltin-declaration-mismatch]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:19:15: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+Finished building: ../src/Assigment day6 1.c
+ 
+Building target: Assigment day6 1
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 1" ./src/Assigment\ day6\ 1.o   
+Finished building target: Assigment day6 1
+ 
+08:22:13 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+Building file: ../src/Assigment day6 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 1.d" -MT"src/Assigment day6 1.o" -o "src/Assigment day6 1.o" "../src/Assigment day6 1.c"
+../src/Assigment day6 1.c: In function ‘main’:
+../src/Assigment day6 1.c:19:15: warning: implicit declaration of function ‘strlen’ [-Wimplicit-function-declaration]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:13:1: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+   12 | #include <stdlib.h>
+  +++ |+#include <string.h>
+   13 | 
+../src/Assigment day6 1.c:19:15: warning: incompatible implicit declaration of built-in function ‘strlen’ [-Wbuiltin-declaration-mismatch]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:19:15: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+Finished building: ../src/Assigment day6 1.c
+ 
+Building target: Assigment day6 1
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 1" ./src/Assigment\ day6\ 1.o   
+Finished building target: Assigment day6 1
+ 
+08:25:56 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+Building file: ../src/Assigment day6 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 1.d" -MT"src/Assigment day6 1.o" -o "src/Assigment day6 1.o" "../src/Assigment day6 1.c"
+../src/Assigment day6 1.c: In function ‘main’:
+../src/Assigment day6 1.c:19:15: warning: implicit declaration of function ‘strlen’ [-Wimplicit-function-declaration]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:13:1: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+   12 | #include <stdlib.h>
+  +++ |+#include <string.h>
+   13 | 
+../src/Assigment day6 1.c:19:15: warning: incompatible implicit declaration of built-in function ‘strlen’ [-Wbuiltin-declaration-mismatch]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:19:15: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+Finished building: ../src/Assigment day6 1.c
+ 
+Building target: Assigment day6 1
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 1" ./src/Assigment\ day6\ 1.o   
+Finished building target: Assigment day6 1
+ 
+08:26:04 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:26:21 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:26:41 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+Building file: ../src/Assigment day6 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 1.d" -MT"src/Assigment day6 1.o" -o "src/Assigment day6 1.o" "../src/Assigment day6 1.c"
+../src/Assigment day6 1.c: In function ‘main’:
+../src/Assigment day6 1.c:19:15: warning: implicit declaration of function ‘strlen’ [-Wimplicit-function-declaration]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:13:1: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+   12 | #include <stdlib.h>
+  +++ |+#include <string.h>
+   13 | 
+../src/Assigment day6 1.c:19:15: warning: incompatible implicit declaration of built-in function ‘strlen’ [-Wbuiltin-declaration-mismatch]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:19:15: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+Finished building: ../src/Assigment day6 1.c
+ 
+Building target: Assigment day6 1
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 1" ./src/Assigment\ day6\ 1.o   
+Finished building target: Assigment day6 1
+ 
+08:26:53 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:27:02 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:31:44 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+Building file: ../src/Assigment day6 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 1.d" -MT"src/Assigment day6 1.o" -o "src/Assigment day6 1.o" "../src/Assigment day6 1.c"
+../src/Assigment day6 1.c: In function ‘main’:
+../src/Assigment day6 1.c:19:15: warning: implicit declaration of function ‘strlen’ [-Wimplicit-function-declaration]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:13:1: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+   12 | #include <stdlib.h>
+  +++ |+#include <string.h>
+   13 | 
+../src/Assigment day6 1.c:19:15: warning: incompatible implicit declaration of built-in function ‘strlen’ [-Wbuiltin-declaration-mismatch]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:19:15: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+Finished building: ../src/Assigment day6 1.c
+ 
+Building target: Assigment day6 1
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 1" ./src/Assigment\ day6\ 1.o   
+Finished building target: Assigment day6 1
+ 
+08:31:52 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:31:58 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:33:43 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+Building file: ../src/Assigment day6 1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 1.d" -MT"src/Assigment day6 1.o" -o "src/Assigment day6 1.o" "../src/Assigment day6 1.c"
+../src/Assigment day6 1.c: In function ‘main’:
+../src/Assigment day6 1.c:19:15: warning: implicit declaration of function ‘strlen’ [-Wimplicit-function-declaration]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:13:1: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+   12 | #include <stdlib.h>
+  +++ |+#include <string.h>
+   13 | 
+../src/Assigment day6 1.c:19:15: warning: incompatible implicit declaration of built-in function ‘strlen’ [-Wbuiltin-declaration-mismatch]
+   19 |         value=strlen(name);
+      |               ^~~~~~
+../src/Assigment day6 1.c:19:15: note: include ‘<string.h>’ or provide a declaration of ‘strlen’
+Finished building: ../src/Assigment day6 1.c
+ 
+Building target: Assigment day6 1
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 1" ./src/Assigment\ day6\ 1.o   
+Finished building target: Assigment day6 1
+ 
+08:33:52 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:33:59 **** Incremental Build of configuration Debug for project Assigment day6 1 ****
+make all 
+make: Nothing to be done for 'all'.
+09:03:23 **** Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:03:30 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+../src/Assigment day6 2.c: In function ‘main’:
+../src/Assigment day6 2.c:18:17: warning: format ‘%d’ expects argument of type ‘int *’, but argument 2 has type ‘int (*)[1000][1000]’ [-Wformat=]
+   18 |         scanf("%d",&multi);
+      |                ~^  ~~~~~~
+      |                 |  |
+      |                 |  int (*)[1000][1000]
+      |                 int *
+../src/Assigment day6 2.c:19:45: error: expected ‘;’ before ‘for’
+   19 |         printf("Enter tha values of array1")
+      |                                             ^
+      |                                             ;
+   20 |         for(i=0;i<multi;i++){
+      |         ~~~                                  
+../src/Assigment day6 2.c:16:15: warning: unused variable ‘j’ [-Wunused-variable]
+   16 |         int i,j;
+      |               ^
+../src/Assigment day6 2.c:16:13: warning: unused variable ‘i’ [-Wunused-variable]
+   16 |         int i,j;
+      |             ^
+make: *** [src/subdir.mk:20: src/Assigment day6 2.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:03:38 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+../src/Assigment day6 2.c: In function ‘main’:
+../src/Assigment day6 2.c:18:17: warning: format ‘%d’ expects argument of type ‘int *’, but argument 2 has type ‘int (*)[1000][1000]’ [-Wformat=]
+   18 |         scanf("%d",&multi);
+      |                ~^  ~~~~~~
+      |                 |  |
+      |                 |  int (*)[1000][1000]
+      |                 int *
+../src/Assigment day6 2.c:20:18: warning: comparison between pointer and integer
+   20 |         for(i=0;i<multi;i++){
+      |                  ^
+../src/Assigment day6 2.c:21:26: warning: comparison between pointer and integer
+   21 |                 for(j=0;j<multi;j++){
+      |                          ^
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:04:43 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+make: Nothing to be done for 'all'.
+09:05:02 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+../src/Assigment day6 2.c: In function ‘main’:
+../src/Assigment day6 2.c:18:17: warning: format ‘%d’ expects argument of type ‘int *’, but argument 2 has type ‘int (*)[1000][1000]’ [-Wformat=]
+   18 |         scanf("%d",&multi);
+      |                ~^  ~~~~~~
+      |                 |  |
+      |                 |  int (*)[1000][1000]
+      |                 int *
+../src/Assigment day6 2.c:20:18: warning: comparison between pointer and integer
+   20 |         for(i=0;i<multi;i++){
+      |                  ^
+../src/Assigment day6 2.c:21:26: warning: comparison between pointer and integer
+   21 |                 for(j=0;j<multi;j++){
+      |                          ^
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:07:09 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+../src/Assigment day6 2.c: In function ‘main’:
+../src/Assigment day6 2.c:18:17: warning: format ‘%d’ expects argument of type ‘int *’, but argument 2 has type ‘int (*)[1000][1000]’ [-Wformat=]
+   18 |         scanf("%d",&multi);
+      |                ~^  ~~~~~~
+      |                 |  |
+      |                 |  int (*)[1000][1000]
+      |                 int *
+../src/Assigment day6 2.c:20:18: warning: comparison between pointer and integer
+   20 |         for(i=0;i<multi;i++){
+      |                  ^
+../src/Assigment day6 2.c:21:26: warning: comparison between pointer and integer
+   21 |                 for(j=0;j<multi;j++){
+      |                          ^
+../src/Assigment day6 2.c:26:18: warning: comparison between pointer and integer
+   26 |         for(i=0;i<multi;i++){
+      |                  ^
+../src/Assigment day6 2.c:27:26: warning: comparison between pointer and integer
+   27 |                 for(j=0;j<multi;j++){
+      |                          ^
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:09:48 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:10:46 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:11:34 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+make: Nothing to be done for 'all'.
+09:11:51 **** Incremental Build of configuration Debug for project multi dimensional array ****
+make all 
+Building file: ../src/multi dimensional array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/multi dimensional array.d" -MT"src/multi dimensional array.o" -o "src/multi dimensional array.o" "../src/multi dimensional array.c"
+Finished building: ../src/multi dimensional array.c
+ 
+Building target: multi dimensional array
+Invoking: GCC C Linker
+gcc  -o "multi dimensional array" ./src/multi\ dimensional\ array.o   
+Finished building target: multi dimensional array
+ 
+09:12:12 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:12:52 **** Incremental Build of configuration Debug for project multi dimensional array ****
+make all 
+Building file: ../src/multi dimensional array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/multi dimensional array.d" -MT"src/multi dimensional array.o" -o "src/multi dimensional array.o" "../src/multi dimensional array.c"
+Finished building: ../src/multi dimensional array.c
+ 
+Building target: multi dimensional array
+Invoking: GCC C Linker
+gcc  -o "multi dimensional array" ./src/multi\ dimensional\ array.o   
+Finished building target: multi dimensional array
+ 
+09:13:46 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+make: Nothing to be done for 'all'.
+09:16:29 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:22:58 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:23:43 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:24:45 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:25:52 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:26:27 **** Incremental Build of configuration Debug for project Assigment day6 2 ****
+make all 
+Building file: ../src/Assigment day6 2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 2.d" -MT"src/Assigment day6 2.o" -o "src/Assigment day6 2.o" "../src/Assigment day6 2.c"
+Finished building: ../src/Assigment day6 2.c
+ 
+Building target: Assigment day6 2
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 2" ./src/Assigment\ day6\ 2.o   
+Finished building target: Assigment day6 2
+ 
+09:38:01 **** Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+Finished building: ../src/Assigment day6 3.c
+ 
+Building target: Assigment day6 3
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 3" ./src/Assigment\ day6\ 3.o   
+Finished building target: Assigment day6 3
+ 
+09:38:07 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘main’:
+../src/Assigment day6 3.c:18:20: warning: passing argument 1 of ‘getarray’ makes integer from pointer without a cast [-Wint-conversion]
+   18 |         k=getarray(a);
+      |                    ^
+      |                    |
+      |                    int *
+../src/Assigment day6 3.c:13:15: note: expected ‘int’ but argument is of type ‘int *’
+   13 | void getarray(int);
+      |               ^~~
+../src/Assigment day6 3.c:18:10: error: void value not ignored as it ought to be
+   18 |         k=getarray(a);
+      |          ^
+../src/Assigment day6 3.c: In function ‘getarray’:
+../src/Assigment day6 3.c:29:28: error: ‘a’ undeclared (first use in this function)
+   29 |                 scanf("%d",a[i]);
+      |                            ^
+../src/Assigment day6 3.c:29:28: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:20: src/Assigment day6 3.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:38:52 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘main’:
+../src/Assigment day6 3.c:18:20: warning: passing argument 1 of ‘getarray’ makes integer from pointer without a cast [-Wint-conversion]
+   18 |         k=getarray(a);
+      |                    ^
+      |                    |
+      |                    int *
+../src/Assigment day6 3.c:13:14: note: expected ‘int’ but argument is of type ‘int *’
+   13 | int getarray(int);
+      |              ^~~
+../src/Assigment day6 3.c: In function ‘getarray’:
+../src/Assigment day6 3.c:29:28: error: ‘a’ undeclared (first use in this function)
+   29 |                 scanf("%d",a[i]);
+      |                            ^
+../src/Assigment day6 3.c:29:28: note: each undeclared identifier is reported only once for each function it appears in
+../src/Assigment day6 3.c:31:1: warning: control reaches end of non-void function [-Wreturn-type]
+   31 | }
+      | ^
+make: *** [src/subdir.mk:20: src/Assigment day6 3.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:39:46 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘main’:
+../src/Assigment day6 3.c:18:11: error: too few arguments to function ‘getarray’
+   18 |         k=getarray();
+      |           ^~~~~~~~
+../src/Assigment day6 3.c:13:6: note: declared here
+   13 | void getarray(int);
+      |      ^~~~~~~~
+../src/Assigment day6 3.c:15:13: warning: unused variable ‘a’ [-Wunused-variable]
+   15 |         int a[100];
+      |             ^
+../src/Assigment day6 3.c: In function ‘getarray’:
+../src/Assigment day6 3.c:29:28: error: ‘a’ undeclared (first use in this function)
+   29 |                 scanf("%d",a[i]);
+      |                            ^
+../src/Assigment day6 3.c:29:28: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:20: src/Assigment day6 3.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:41:27 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘main’:
+../src/Assigment day6 3.c:18:20: warning: passing argument 1 of ‘getarray’ makes integer from pointer without a cast [-Wint-conversion]
+   18 |         k=getarray(a);
+      |                    ^
+      |                    |
+      |                    int *
+../src/Assigment day6 3.c:13:14: note: expected ‘int’ but argument is of type ‘int *’
+   13 | int getarray(int);
+      |              ^~~
+../src/Assigment day6 3.c: In function ‘getarray’:
+../src/Assigment day6 3.c:29:32: error: subscripted value is neither array nor pointer nor vector
+   29 |                 scanf("%d",num1[i]);
+      |                                ^
+../src/Assigment day6 3.c:31:16: error: ‘a’ undeclared (first use in this function)
+   31 |         return a[i];
+      |                ^
+../src/Assigment day6 3.c:31:16: note: each undeclared identifier is reported only once for each function it appears in
+../src/Assigment day6 3.c:32:1: warning: control reaches end of non-void function [-Wreturn-type]
+   32 | }
+      | ^
+make: *** [src/subdir.mk:20: src/Assigment day6 3.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:45:03 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘main’:
+../src/Assigment day6 3.c:16:13: warning: unused variable ‘k’ [-Wunused-variable]
+   16 |         int k;
+      |             ^
+../src/Assigment day6 3.c:15:13: warning: unused variable ‘a’ [-Wunused-variable]
+   15 |         int a[100];
+      |             ^
+Finished building: ../src/Assigment day6 3.c
+ 
+Building target: Assigment day6 3
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 3" ./src/Assigment\ day6\ 3.o   
+Finished building target: Assigment day6 3
+ 
+09:48:39 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘getarray’:
+../src/Assigment day6 3.c:31:33: error: subscripted value is neither array nor pointer nor vector
+   31 |                 scanf("%d",&num1[i]);
+      |                                 ^
+../src/Assigment day6 3.c:33:20: error: subscripted value is neither array nor pointer nor vector
+   33 |         return num1[i];
+      |                    ^
+../src/Assigment day6 3.c:34:1: warning: control reaches end of non-void function [-Wreturn-type]
+   34 | }
+      | ^
+make: *** [src/subdir.mk:20: src/Assigment day6 3.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:50:11 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘getarray’:
+../src/Assigment day6 3.c:31:33: error: subscripted value is neither array nor pointer nor vector
+   31 |                 scanf("%d",&num1[i]);
+      |                                 ^
+../src/Assigment day6 3.c:33:20: error: subscripted value is neither array nor pointer nor vector
+   33 |         return num1[i];
+      |                    ^
+../src/Assigment day6 3.c:34:1: warning: control reaches end of non-void function [-Wreturn-type]
+   34 | }
+      | ^
+make: *** [src/subdir.mk:20: src/Assigment day6 3.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:52:12 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘getarray’:
+../src/Assigment day6 3.c:31:33: error: subscripted value is neither array nor pointer nor vector
+   31 |                 scanf("%d",&num1[i]);
+      |                                 ^
+../src/Assigment day6 3.c:33:20: error: subscripted value is neither array nor pointer nor vector
+   33 |         return num1[i];
+      |                    ^
+../src/Assigment day6 3.c:34:1: warning: control reaches end of non-void function [-Wreturn-type]
+   34 | }
+      | ^
+make: *** [src/subdir.mk:20: src/Assigment day6 3.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:53:32 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘getarray’:
+../src/Assigment day6 3.c:31:33: error: subscripted value is neither array nor pointer nor vector
+   31 |                 scanf("%d",&num1[i]);
+      |                                 ^
+../src/Assigment day6 3.c:33:20: error: subscripted value is neither array nor pointer nor vector
+   33 |         return num1[i];
+      |                    ^
+../src/Assigment day6 3.c:34:1: warning: control reaches end of non-void function [-Wreturn-type]
+   34 | }
+      | ^
+make: *** [src/subdir.mk:20: src/Assigment day6 3.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:54:43 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘getarray’:
+../src/Assigment day6 3.c:25:21: warning: unused variable ‘result’ [-Wunused-variable]
+   25 |         int limit,i,result,num1[100];
+      |                     ^~~~~~
+Finished building: ../src/Assigment day6 3.c
+ 
+Building target: Assigment day6 3
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 3" ./src/Assigment\ day6\ 3.o   
+Finished building target: Assigment day6 3
+ 
+10:07:28 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+make: Nothing to be done for 'all'.
+10:07:32 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+../src/Assigment day6 3.c: In function ‘main’:
+../src/Assigment day6 3.c:20:15: warning: initialization of ‘int’ from ‘int *’ makes integer from pointer without a cast [-Wint-conversion]
+   20 |         int p=arr;
+      |               ^~~
+../src/Assigment day6 3.c:21:18: warning: passing argument 1 of ‘getarray’ makes pointer from integer without a cast [-Wint-conversion]
+   21 |         getarray(p,size);
+      |                  ^
+      |                  |
+      |                  int
+../src/Assigment day6 3.c:13:15: note: expected ‘int *’ but argument is of type ‘int’
+   13 | void getarray(int[],int);
+      |               ^~~~~
+../src/Assigment day6 3.c:22:22: warning: passing argument 1 of ‘displayArray’ makes pointer from integer without a cast [-Wint-conversion]
+   22 |         displayArray(p,size);
+      |                      ^
+      |                      |
+      |                      int
+../src/Assigment day6 3.c:14:19: note: expected ‘int *’ but argument is of type ‘int’
+   14 | void displayArray(int[],int);
+      |                   ^~~~~
+Finished building: ../src/Assigment day6 3.c
+ 
+Building target: Assigment day6 3
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 3" ./src/Assigment\ day6\ 3.o   
+Finished building target: Assigment day6 3
+ 
+10:07:48 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+make: Nothing to be done for 'all'.
+10:08:31 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+make: Nothing to be done for 'all'.
+10:10:06 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+make: Nothing to be done for 'all'.
+10:10:09 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+make: Nothing to be done for 'all'.
+10:10:55 **** Build of configuration Debug for project Array  sample ****
+make all 
+make: Nothing to be done for 'all'.
+10:11:30 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+make: Nothing to be done for 'all'.
+10:12:32 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+make: Nothing to be done for 'all'.
+10:12:39 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+make: Nothing to be done for 'all'.
+10:14:38 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+Finished building: ../src/Assigment day6 3.c
+ 
+Building target: Assigment day6 3
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 3" ./src/Assigment\ day6\ 3.o   
+Finished building target: Assigment day6 3
+ 
+10:14:59 **** Incremental Build of configuration Debug for project Assigment day6 3 ****
+make all 
+Building file: ../src/Assigment day6 3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Assigment day6 3.d" -MT"src/Assigment day6 3.o" -o "src/Assigment day6 3.o" "../src/Assigment day6 3.c"
+Finished building: ../src/Assigment day6 3.c
+ 
+Building target: Assigment day6 3
+Invoking: GCC C Linker
+gcc  -o "Assigment day6 3" ./src/Assigment\ day6\ 3.o   
+Finished building target: Assigment day6 3
+ 
